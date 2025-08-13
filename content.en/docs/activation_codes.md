@@ -1,8 +1,8 @@
 ---
 title: Activation Codes
 ---
-
-Activation Codes are special codes that players can use to unlock exclusive rewards, such as:
+# Activation Codes
+These are special codes that players can use to unlock exclusive rewards, such as:
 - In-game currency: Gold, crystals, or other premium resources
 - Items: Rare equipment, costumes, or other valuable items
 - Boosters: Temporary boosts or buffs to aid in gameplay
