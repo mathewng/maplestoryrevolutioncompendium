@@ -36,3 +36,6 @@ yarn.lock
 
 # Optional: ignore themes if using submodules
 # /themes/
+
+# tmp files
+*.lock
