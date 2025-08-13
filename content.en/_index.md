@@ -6,57 +6,36 @@ bookHeadingAnchor: false
 <div class="book-hero">
 
 # Maplestory R: Evolution compendium
-Facebook: [https://www.facebook.com/MapleStoryREvolution](https://www.facebook.com/MapleStoryREvolution) for updates on latest activation codes
+The MapleStory R: Evolution Compendium is likely a comprehensive guide or wiki for the game, covering various aspects such as:
+- Characters: Class guides, skill trees, and stats
+- Equipment: Gear, accessories, and upgrade systems
+- Game Modes: Walkthroughs for Adventure Journey, Dimension Trial, PvP, and other modes
+- Pets: Pet collection, evolution, and skill information
+- Resources: Tips for resource gathering, farming, and optimization
 
 
-{{<button href="https://www.facebook.com/MapleStoryREvolution">}}Button{{</button>}}
-
+It may also include strategies, tips, and community-driven content to help players progress and improve in the game.
 </div>
 
-{{% columns %}}
-- ## Astris ipse furtiva
-  Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-  olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-  modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## About the Game
 
-- ## Suis quot vota
-  Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-  miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-  nunc! Fragosis suae dextra geruntur functus vulgata.
-{{% /columns %}}
+MapleStory R: Evolution is an idle RPG officially authorized by Nexon, based on the classic MapleStory IP. It offers a nostalgic experience with modern gameplay, featuring classic 2D side-scrolling visuals, iconic characters and maps from the original game.
 
 
-{{% columns %}}
-- {{< card title="Card" image="" >}}
-  # Heading
-  Nullam feugiat urna massa, et fringilla metus consectetur molestie. Suspendisse sed congue orci, eu congue metus.
-  {{< /card >}}
+### Key Features:
+- Classes: Choose from five classes - Thief, Cannoneer, Bowman, Warrior, and Magician - each with unique skills and playstyles.
+- Gameplay: Enjoy idle gameplay with auto-battle features, allowing for relaxed progression and resource gathering.
+- Customization: Personalize your character with various costumes and equipment, and collect pets to aid you in your journey.
+- Social Features: Join guilds, interact with friends, and participate in community events.
+- Game Modes: Explore various game modes, including Adventure Journey, Dimension Trial, and PvP content like Grand Arena.
 
-- {{< card title="Card" image="" >}}
-  # Heading
-  Suspendisse sed congue orci, eu congue metus. Nullam feugiat urna massa, et fringilla metus consectetur molestie.
-  {{< /card >}}
 
-- {{< card title="Card" image="" >}}
-  # Heading
-  Suspendisse sed congue orci, eu congue metus. Nullam feugiat urna massa, et fringilla metus consectetur molestie.
-  {{< /card >}}
-{{% /columns %}}
+### Gameplay Mechanics:
+- Auto-Battle: Engage in hands-off combat, ideal for grinding and resource gathering.
+- Rage Skill: Unleash powerful skills to turn the tide of battle.
+- Equipment Upgrades: Enhance your gear to increase combat effectiveness.
+- Pet System: Collect and evolve pets to provide passive bonuses and skills.
 
-{{% columns %}}
-- {{< card title="Card" >}}
-  ### Heading
-  Nullam feugiat urna massa, et fringilla metus consectetur molestie. Suspendisse sed congue orci, eu congue metus.
-  {{< /card >}}
-
-- {{< card title="Card" >}}
-  ### Heading
-  Suspendisse sed congue orci, eu congue metus. Nullam feugiat urna massa, et fringilla metus consectetur molestie.
-  {{< /card >}}
-
-- {{< card title="Card" >}}
-  ### Heading
-  Nullam feugiat urna massa, et fringilla metus consectetur molestie. Suspendisse sed congue orci, eu congue metus.
-  {{< /card >}}
-{{% /columns %}}
+### Availability:
+MapleStory R: Evolution is available for download on both Google Play and the App Store, with pre-registration open in various regions
 
