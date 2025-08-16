@@ -32,6 +32,11 @@ disableKinds = ['taxonomy']
   contentDir = 'content.en'
   weight = 1
 
+#[languages.th]
+#  languageName = 'ภาษาไทย'
+#  contentDir = 'content.th'
+#  weight = 2
+
 #[languages.zh]
 #  languageName = 'Chinese'
 #  contentDir = 'content.zh'
@@ -39,24 +44,29 @@ disableKinds = ['taxonomy']
 
 [menu]
 [[menu.home]]
-  name = "Compendium"
+  name = "Read"
   url = "/docs/"
   weight = 1
 
 [[menu.home]]
+  name = "อ่านเป็นภาษาไทย"
+  url = "https://mathewng-github-io.translate.goog/maplestoryrevolutioncompendium/?_x_tr_sl=en&_x_tr_tl=th&_x_tr_hl=en"
+  weight = 2
+
+[[menu.home]]
   name = "Play"
   url = "https://msrsea.rastargames.com/"
-  weight = 2
+  weight = 3
 
 [[menu.home]]
   name = "Maplestory R: Evolution Facebook"
   url = "https://www.facebook.com/MapleStoryREvolution"
-  weight = 3
+  weight = 4
 
 [[menu.home]]
   name = "Github"
   url = "https://github.com/mathewng/maplestoryrevolutioncompendium"
-  weight = 4
+  weight = 5
 
 # [[menu.before]]
 # [[menu.after]]
