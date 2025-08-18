@@ -28,6 +28,7 @@ These codes are released through its official [Facebook](https://www.facebook.co
 # List of Activation Codes
 | Publish date      | Activation code  |
 | ----------------- | ---------------- |
+| 18 August 2025    | AUGCOCOO25       |
 | 11 August 2025    | dragonboat2025   |
 | 4 August 2025     | Anniversary2025  |
 | 28 July 2025      | GREAT2525        |
