@@ -7,11 +7,14 @@ weight: 20
 
 | Question                                                                                                           | Answer                                     |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| Adults have a total of 34 teeth.                                                                                   | Wrong                                      |
 | Amsterdam is the capital of Netherlands                                                                            | Correct                                    |
 | Bueno Aires is the capital of Argentina                                                                            | Correct                                    |
+| Caterpillars turn into butterflies.                                                                                | Correct                                    |
 | Check Adventure Team information in the Adventure Team Hall                                                        | Correct                                    |
 | Chicago is the largest city in the United States                                                                   | Wrong                                      |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics   | Correct                                    |
+| Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                              | Wrong                                      |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                           | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                         | Correct                                    |
 | Each NBA team has 28 players                                                                                       | Wrong                                      |
@@ -27,10 +30,12 @@ weight: 20
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                       | Correct                                    |
 | In the Victoria Island anomaly of Dimension Trail (Plot), Joey and Faie are twin sisters                           | Correct                                    |
 | Infants have more bones than adults.                                                                               | Correct                                    |
+| Kyrin is the Bowman Instructor                                                                                     | Wrong                                      |
 | Leafre is positioned the Minar Forest                                                                              | Correct                                    |
 | Max Planck discovered the theory of relativity                                                                     | Wrong                                      |
 | Michael Jordan totally got 7 Champions in his career                                                               | Wrong                                      |
 | More people mean more powerful                                                                                     | (everyone must stand together on one side) |
+| Mount Everest is the tallest mountain in the world.                                                                | Correct                                    |
 | Neinhart is the Queen of Maple World                                                                               | Wrong                                      |
 | Neinhart’s position is ‘Counselor’                                                                                 | Correct                                    |
 | New York City is the largest city in the United states                                                             | Correct                                    |
@@ -49,3 +54,4 @@ weight: 20
 | Various rage skill upgrades require the 'same' skill manuals                                                       | Wrong                                      |
 | Venus is the hottest planet in our solar system                                                                    | Correct                                    |
 | When approaching the enemy, automatic skills must be activated manually.                                           | Wrong                                      |
+| Winston Churchill was prime minister of Great Britain at the end of World War II                                   | Correct                                    |
