@@ -27,7 +27,8 @@ These codes are released through its official [Facebook](https://www.facebook.co
 
 # List of Activation Codes
 | Publish date      | Activation code  |
-| ----------------- | ---------------- |
+|-------------------|------------------|
+| 9 Sept 2025       | AUGGREAT25       |
 | 1 Sept 2025       | AUGNEWW25        |
 | 25 August 2025    | AUGPERRY25       |
 | 18 August 2025    | AUGCOCOO25       |
