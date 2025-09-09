@@ -8,12 +8,16 @@ weight: 20
 | Question                                                                                                           | Answer                                     |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
 | Adults have a total of 34 teeth.                                                                                   | Wrong                                      |
+| Adventure Book can be obtained through being presented from friends.                                               | Wrong                                      |
 | Amsterdam is the capital of Netherlands                                                                            | Correct                                    |
 | Bueno Aires is the capital of Argentina                                                                            | Correct                                    |
 | Caterpillars turn into butterflies.                                                                                | Correct                                    |
 | Check Adventure Team information in the Adventure Team Hall                                                        | Correct                                    |
 | Chicago is the largest city in the United States                                                                   | Wrong                                      |
+| Cinderella's carriage turns into a potato                                                                          | Wrong                                      |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics   | Correct                                    |
+| Dances with Balrog is the Magician Instructor                                                                      | Wrong                                      |
+| Dances with Balrog is the Warrior Instructor                                                                       | Correct                                    |
 | Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                              | Wrong                                      |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                           | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                         | Correct                                    |
@@ -30,6 +34,7 @@ weight: 20
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                       | Correct                                    |
 | In the Victoria Island anomaly of Dimension Trail (Plot), Joey and Faie are twin sisters                           | Correct                                    |
 | Infants have more bones than adults.                                                                               | Correct                                    |
+| Job Advancement can learn new skills                                                                               | Correct                                    |
 | Kyrin is the Bowman Instructor                                                                                     | Wrong                                      |
 | Leafre is positioned the Minar Forest                                                                              | Correct                                    |
 | Max Planck discovered the theory of relativity                                                                     | Wrong                                      |
@@ -43,6 +48,8 @@ weight: 20
 | Residents in Leafre are goblins                                                                                    | Wrong                                      |
 | Snow White was the first Disney Princess                                                                           | Correct                                    |
 | The adventure journey's challenge has no time constraint.                                                          | Wrong                                      |
+| The African Elephant is the largest land animal to roam the planet                                                 | Correct                                    |
+| The Atlantic Ocean is the biggest ocean on Earth.                                                                  | Wrong                                      |
 | The capital of Japan is Osaka                                                                                      | Wrong                                      |
 | The capital of Russia is Saint Petersburg                                                                          | Wrong                                      |
 | The first country in the world to use the subway is the United States                                              | Wrong                                      |
@@ -51,6 +58,7 @@ weight: 20
 | The Nihal Desert is brimmed of cacti                                                                               | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                               | Correct                                    |
 | There are 26 letters in the English alphabet                                                                       | Correct                                    |
+| There are 8 colours in a rainbow                                                                                   | Wrong                                      |
 | Various rage skill upgrades require the 'same' skill manuals                                                       | Wrong                                      |
 | Venus is the hottest planet in our solar system                                                                    | Correct                                    |
 | When approaching the enemy, automatic skills must be activated manually.                                           | Wrong                                      |
