@@ -9,11 +9,15 @@ weight: 20
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
 | Adults have a total of 34 teeth.                                                                                   | Wrong                                      |
 | Adventure Book can be obtained through being presented from friends.                                               | Wrong                                      |
+| America's first military school was West Point.                                                                    | Correct                                    |
 | Amsterdam is the capital of Netherlands                                                                            | Correct                                    |
+| Being idle 'can' obtain idle earning                                                                               | Correct                                    |
+| Being idle 'can't' obtain idle earning                                                                             | Wrong                                      |
 | Bueno Aires is the capital of Argentina                                                                            | Correct                                    |
 | Caterpillars turn into butterflies.                                                                                | Correct                                    |
 | Check Adventure Team information in the Adventure Team Hall                                                        | Correct                                    |
 | Chicago is the largest city in the United States                                                                   | Wrong                                      |
+| China has the longest coastline in the world.                                                                      | Wrong                                      |
 | Cinderella's carriage turns into a potato                                                                          | Wrong                                      |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics   | Correct                                    |
 | Dances with Balrog is the Magician Instructor                                                                      | Wrong                                      |
@@ -41,6 +45,7 @@ weight: 20
 | Michael Jordan totally got 7 Champions in his career                                                               | Wrong                                      |
 | More people mean more powerful                                                                                     | (everyone must stand together on one side) |
 | Mount Everest is the tallest mountain in the world.                                                                | Correct                                    |
+| Neil Armstrong said the famous words: "That's one small step for man, one giant leap for mankind".                 | Correct                                    |
 | Neinhart is the Queen of Maple World                                                                               | Wrong                                      |
 | Neinhart’s position is ‘Counselor’                                                                                 | Correct                                    |
 | New York City is the largest city in the United states                                                             | Correct                                    |
@@ -52,9 +57,11 @@ weight: 20
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                  | Wrong                                      |
 | The capital of Japan is Osaka                                                                                      | Wrong                                      |
 | The capital of Russia is Saint Petersburg                                                                          | Wrong                                      |
+| The English abbreviation of the position of Chief Executive Officer is CFO.                                        | Wrong                                      |
 | The first country in the world to use the subway is the United States                                              | Wrong                                      |
 | The fruit of lemon has just one seed                                                                               | Wrong                                      |
 | The Horntail has two dragon heads in the Dusk Demesne                                                              | Wrong                                      |
+| The Incumbent Dark Lord's name is Lady Syl                                                                         | Wrong                                      |
 | The Nihal Desert is brimmed of cacti                                                                               | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                               | Correct                                    |
 | There are 26 letters in the English alphabet                                                                       | Correct                                    |
