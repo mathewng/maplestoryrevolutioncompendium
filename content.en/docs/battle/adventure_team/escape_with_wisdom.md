@@ -11,17 +11,21 @@ weight: 20
 | Adventure Book can be obtained through being presented from friends.                                               | Wrong                                      |
 | America's first military school was West Point.                                                                    | Correct                                    |
 | Amsterdam is the capital of Netherlands                                                                            | Correct                                    |
+| Anemometer is used for measuring wind speed.                                                                       | Correct                                    |
 | Being idle 'can' obtain idle earning                                                                               | Correct                                    |
 | Being idle 'can't' obtain idle earning                                                                             | Wrong                                      |
 | Bueno Aires is the capital of Argentina                                                                            | Correct                                    |
+| Canada has the longest coastline in the world.                                                                     | Correct                                    |
 | Caterpillars turn into butterflies.                                                                                | Correct                                    |
 | Check Adventure Team information in the Adventure Team Hall                                                        | Correct                                    |
+| Checky is the leader of the Rebel Group                                                                            | Wrong                                      |
 | Chicago is the largest city in the United States                                                                   | Wrong                                      |
 | China has the longest coastline in the world.                                                                      | Wrong                                      |
 | Cinderella's carriage turns into a potato                                                                          | Wrong                                      |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics   | Correct                                    |
 | Dances with Balrog is the Magician Instructor                                                                      | Wrong                                      |
 | Dances with Balrog is the Warrior Instructor                                                                       | Correct                                    |
+| Dark Lord is the leader of the Flying Flower                                                                       | Wrong                                      |
 | Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                              | Wrong                                      |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                           | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                         | Correct                                    |
@@ -50,6 +54,7 @@ weight: 20
 | Neinhart’s position is ‘Counselor’                                                                                 | Correct                                    |
 | New York City is the largest city in the United states                                                             | Correct                                    |
 | Panda is the national animal of China                                                                              | Correct                                    |
+| Reading the Adventure Book will help you comprehend the Maple Island better.                                       | Correct                                    |
 | Residents in Leafre are goblins                                                                                    | Wrong                                      |
 | Snow White was the first Disney Princess                                                                           | Correct                                    |
 | The adventure journey's challenge has no time constraint.                                                          | Wrong                                      |
@@ -59,11 +64,13 @@ weight: 20
 | The capital of Russia is Saint Petersburg                                                                          | Wrong                                      |
 | The English abbreviation of the position of Chief Executive Officer is CFO.                                        | Wrong                                      |
 | The first country in the world to use the subway is the United States                                              | Wrong                                      |
+| The founder of KFC is a Colonel.                                                                                   | Correct                                    |
 | The fruit of lemon has just one seed                                                                               | Wrong                                      |
 | The Horntail has two dragon heads in the Dusk Demesne                                                              | Wrong                                      |
 | The Incumbent Dark Lord's name is Lady Syl                                                                         | Wrong                                      |
 | The Nihal Desert is brimmed of cacti                                                                               | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                               | Correct                                    |
+| The World Cup is held every three years.                                                                           | Wrong                                      |
 | There are 26 letters in the English alphabet                                                                       | Correct                                    |
 | There are 8 colours in a rainbow                                                                                   | Wrong                                      |
 | Various rage skill upgrades require the 'same' skill manuals                                                       | Wrong                                      |
