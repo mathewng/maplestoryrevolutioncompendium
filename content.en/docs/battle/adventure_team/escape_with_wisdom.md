@@ -19,6 +19,7 @@ weight: 20
 | Caterpillars turn into butterflies.                                                                                | Correct                                    |
 | Check Adventure Team information in the Adventure Team Hall                                                        | Correct                                    |
 | Checky is the leader of the Rebel Group                                                                            | Wrong                                      |
+| Cheesecake first originated in Greece                                                                              | Correct                                    |
 | Chicago is the largest city in the United States                                                                   | Wrong                                      |
 | China has the longest coastline in the world.                                                                      | Wrong                                      |
 | Cinderella's carriage turns into a potato                                                                          | Wrong                                      |
@@ -30,12 +31,15 @@ weight: 20
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                           | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                         | Correct                                    |
 | Each NBA team has 28 players                                                                                       | Wrong                                      |
+| Each quick combat can earn you up to 200 minutes of idle earning                                                   | Correct                                    |
 | Endless Hunting requires a team to take on the challenge                                                           | Wrong                                      |
+| Ephenia is the leader of the Fairy                                                                                 | Correct                                    |
 | Even though dragonflies have six legs, they cannot walk                                                            | Correct                                    |
 | Every day, the Endless Hunting offers one free challenge                                                           | Correct                                    |
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                              | Wrong                                      |
 | Fortune cookies were invented in China                                                                             | Wrong                                      |
 | Grendel the Really Old is into beautiful women                                                                     | Wrong                                      |
+| Hamburg is the capital of Germany                                                                                  | Wrong                                      |
 | Helena is the Warrior Instructor                                                                                   | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia          | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding | Wrong                                      |
@@ -53,6 +57,7 @@ weight: 20
 | Neinhart is the Queen of Maple World                                                                               | Wrong                                      |
 | Neinhart’s position is ‘Counselor’                                                                                 | Correct                                    |
 | New York City is the largest city in the United states                                                             | Correct                                    |
+| Osteoporosis is mainly caused by the lack of vitamin B in the body                                                 | Wrong                                      |
 | Panda is the national animal of China                                                                              | Correct                                    |
 | Reading the Adventure Book will help you comprehend the Maple Island better.                                       | Correct                                    |
 | Residents in Leafre are goblins                                                                                    | Wrong                                      |
@@ -62,17 +67,20 @@ weight: 20
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                  | Wrong                                      |
 | The capital of Japan is Osaka                                                                                      | Wrong                                      |
 | The capital of Russia is Saint Petersburg                                                                          | Wrong                                      |
+| The earliest red-and-white machine game Super Mario was produced by Nintendo                                       | Correct                                    |
 | The English abbreviation of the position of Chief Executive Officer is CFO.                                        | Wrong                                      |
 | The first country in the world to use the subway is the United States                                              | Wrong                                      |
 | The founder of KFC is a Colonel.                                                                                   | Correct                                    |
 | The fruit of lemon has just one seed                                                                               | Wrong                                      |
 | The Horntail has two dragon heads in the Dusk Demesne                                                              | Wrong                                      |
 | The Incumbent Dark Lord's name is Lady Syl                                                                         | Wrong                                      |
+| The incumbent Dark Lord's name is Zhen.                                                                            | Correct                                    |
 | The Nihal Desert is brimmed of cacti                                                                               | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                               | Correct                                    |
 | The World Cup is held every three years.                                                                           | Wrong                                      |
 | There are 26 letters in the English alphabet                                                                       | Correct                                    |
 | There are 8 colours in a rainbow                                                                                   | Wrong                                      |
+| Unclaimed Costume items " can not" be tired on in the Fashion House.                                               | Wrong                                      |
 | Various rage skill upgrades require the 'same' skill manuals                                                       | Wrong                                      |
 | Venus is the hottest planet in our solar system                                                                    | Correct                                    |
 | When approaching the enemy, automatic skills must be activated manually.                                           | Wrong                                      |
