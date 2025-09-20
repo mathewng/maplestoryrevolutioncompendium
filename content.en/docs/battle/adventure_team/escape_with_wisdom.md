@@ -7,8 +7,11 @@ weight: 20
 
 | Question                                                                                                           | Answer                                     |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| Activating pet maps can increase battlepower.                                                                      | Correct                                    |
 | Adults have a total of 34 teeth.                                                                                   | Wrong                                      |
 | Adventure Book can be obtained through being presented from friends.                                               | Wrong                                      |
+| After activating the pet's bond effect, the character will get the pet's bond attribute                            | Wrong                                      |
+| Alfie is 'afraid' of bugs                                                                                          | Correct                                    |
 | America's first military school was West Point.                                                                    | Correct                                    |
 | Amsterdam is the capital of Netherlands                                                                            | Correct                                    |
 | Anemometer is used for measuring wind speed.                                                                       | Correct                                    |
@@ -61,6 +64,7 @@ weight: 20
 | Panda is the national animal of China                                                                              | Correct                                    |
 | Reading the Adventure Book will help you comprehend the Maple Island better.                                       | Correct                                    |
 | Residents in Leafre are goblins                                                                                    | Wrong                                      |
+| Siri is the voice-controlled feature of Google's mobile app in the United States                                   | Wrong                                      |
 | Snow White was the first Disney Princess                                                                           | Correct                                    |
 | The adventure journey's challenge has no time constraint.                                                          | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                 | Correct                                    |
@@ -77,6 +81,7 @@ weight: 20
 | The incumbent Dark Lord's name is Zhen.                                                                            | Correct                                    |
 | The Nihal Desert is brimmed of cacti                                                                               | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                               | Correct                                    |
+| The World Cup is held every four years.                                                                            | Correct                                    |
 | The World Cup is held every three years.                                                                           | Wrong                                      |
 | There are 26 letters in the English alphabet                                                                       | Correct                                    |
 | There are 8 colours in a rainbow                                                                                   | Wrong                                      |
