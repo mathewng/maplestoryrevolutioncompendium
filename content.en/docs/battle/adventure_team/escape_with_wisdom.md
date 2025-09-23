@@ -11,6 +11,7 @@ weight: 20
 | Adults have a total of 34 teeth.                                                                                   | Wrong                                      |
 | Adventure Book can be obtained through being presented from friends.                                               | Wrong                                      |
 | After activating the pet's bond effect, the character will get the pet's bond attribute                            | Wrong                                      |
+| Alexander Graham Bell invented the telephone                                                                       | Correct                                    |
 | Alfie is 'afraid' of bugs                                                                                          | Correct                                    |
 | America's first military school was West Point.                                                                    | Correct                                    |
 | Amsterdam is the capital of Netherlands                                                                            | Correct                                    |
@@ -37,6 +38,7 @@ weight: 20
 | Each quick combat can earn you up to 200 minutes of idle earning                                                   | Correct                                    |
 | Endless Hunting requires a team to take on the challenge                                                           | Wrong                                      |
 | Ephenia is the leader of the Fairy                                                                                 | Correct                                    |
+| Equipping different wings will change battle power                                                                 | Wrong                                      |
 | Even though dragonflies have six legs, they cannot walk                                                            | Correct                                    |
 | Every day, the Endless Hunting offers one free challenge                                                           | Correct                                    |
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                              | Wrong                                      |
@@ -54,18 +56,22 @@ weight: 20
 | Leafre is positioned the Minar Forest                                                                              | Correct                                    |
 | Max Planck discovered the theory of relativity                                                                     | Wrong                                      |
 | Michael Jordan totally got 7 Champions in his career                                                               | Wrong                                      |
+| Monster Cards can be gained through 'Summon' and 'Expedition Forces'                                               | Wrong                                      |
 | More people mean more powerful                                                                                     | (everyone must stand together on one side) |
 | Mount Everest is the tallest mountain in the world.                                                                | Correct                                    |
 | Neil Armstrong said the famous words: "That's one small step for man, one giant leap for mankind".                 | Correct                                    |
 | Neinhart is the Queen of Maple World                                                                               | Wrong                                      |
 | Neinhart’s position is ‘Counselor’                                                                                 | Correct                                    |
 | New York City is the largest city in the United states                                                             | Correct                                    |
+| Orchid's most beloved is Gelimer                                                                                   | Wrong                                      |
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                 | Wrong                                      |
 | Panda is the national animal of China                                                                              | Correct                                    |
 | Reading the Adventure Book will help you comprehend the Maple Island better.                                       | Correct                                    |
 | Residents in Leafre are goblins                                                                                    | Wrong                                      |
+| Shiki doesn't like to play games                                                                                   | Wrong                                      |
 | Siri is the voice-controlled feature of Google's mobile app in the United States                                   | Wrong                                      |
 | Snow White was the first Disney Princess                                                                           | Correct                                    |
+| Spider has ten legs                                                                                                | Wrong                                      |
 | The adventure journey's challenge has no time constraint.                                                          | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                 | Correct                                    |
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                  | Wrong                                      |
@@ -80,6 +86,7 @@ weight: 20
 | The Incumbent Dark Lord's name is Lady Syl                                                                         | Wrong                                      |
 | The incumbent Dark Lord's name is Zhen.                                                                            | Correct                                    |
 | The Nihal Desert is brimmed of cacti                                                                               | Correct                                    |
+| The river Seine in Paris is longer than the river Thames in London                                                 | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                               | Correct                                    |
 | The World Cup is held every four years.                                                                            | Correct                                    |
 | The World Cup is held every three years.                                                                           | Wrong                                      |
