@@ -38,11 +38,13 @@ weight: 20
 | Each quick combat can earn you up to 200 minutes of idle earning                                                   | Correct                                    |
 | Endless Hunting requires a team to take on the challenge                                                           | Wrong                                      |
 | Ephenia is the leader of the Fairy                                                                                 | Correct                                    |
+| Ephenia is the leader of the Snails                                                                                | Wrong                                      |
 | Equipping different wings will change battle power                                                                 | Wrong                                      |
 | Even though dragonflies have six legs, they cannot walk                                                            | Correct                                    |
 | Every day, the Endless Hunting offers one free challenge                                                           | Correct                                    |
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                              | Wrong                                      |
 | Fortune cookies were invented in China                                                                             | Wrong                                      |
+| Giraffe is the tallest animal in the world                                                                         | Correct                                    |
 | Grendel the Really Old is into beautiful women                                                                     | Wrong                                      |
 | Hamburg is the capital of Germany                                                                                  | Wrong                                      |
 | Helena is the Warrior Instructor                                                                                   | Wrong                                      |
@@ -54,6 +56,7 @@ weight: 20
 | Job Advancement can learn new skills                                                                               | Correct                                    |
 | Kyrin is the Bowman Instructor                                                                                     | Wrong                                      |
 | Leafre is positioned the Minar Forest                                                                              | Correct                                    |
+| Lotus' most beloved is Orchid                                                                                      | Correct                                    |
 | Max Planck discovered the theory of relativity                                                                     | Wrong                                      |
 | Michael Jordan totally got 7 Champions in his career                                                               | Wrong                                      |
 | Monster Cards can be gained through 'Summon' and 'Expedition Forces'                                               | Wrong                                      |
@@ -68,10 +71,13 @@ weight: 20
 | Panda is the national animal of China                                                                              | Correct                                    |
 | Reading the Adventure Book will help you comprehend the Maple Island better.                                       | Correct                                    |
 | Residents in Leafre are goblins                                                                                    | Wrong                                      |
+| Rune Wings can be dressed in the Fashion House                                                                     | Correct                                    |
 | Shiki doesn't like to play games                                                                                   | Wrong                                      |
 | Siri is the voice-controlled feature of Google's mobile app in the United States                                   | Wrong                                      |
 | Snow White was the first Disney Princess                                                                           | Correct                                    |
 | Spider has ten legs                                                                                                | Wrong                                      |
+| Stigmata Star-up needs to consume Potential stones                                                                 | Wrong                                      |
+| Telescope is the instrument used to see stars                                                                      | Correct                                    |
 | The adventure journey's challenge has no time constraint.                                                          | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                 | Correct                                    |
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                  | Wrong                                      |
@@ -85,10 +91,12 @@ weight: 20
 | The Horntail has two dragon heads in the Dusk Demesne                                                              | Wrong                                      |
 | The Incumbent Dark Lord's name is Lady Syl                                                                         | Wrong                                      |
 | The incumbent Dark Lord's name is Zhen.                                                                            | Correct                                    |
+| The largest city in Brazil is Brasilia                                                                             | Wrong                                      |
 | The Nihal Desert is brimmed of cacti                                                                               | Correct                                    |
 | The river Seine in Paris is longer than the river Thames in London                                                 | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                               | Correct                                    |
 | The World Cup is held every four years.                                                                            | Correct                                    |
+| The World Cup is held every six years.                                                                             | Wrong                                      |
 | The World Cup is held every three years.                                                                           | Wrong                                      |
 | There are 26 letters in the English alphabet                                                                       | Correct                                    |
 | There are 8 colours in a rainbow                                                                                   | Wrong                                      |
