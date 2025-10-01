@@ -7,6 +7,7 @@ weight: 20
 
 | Question                                                                                                           | Answer                                     |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| A baseball team has 15 players                                                                                     | Wrong                                      |
 | Activating pet maps can increase battlepower.                                                                      | Correct                                    |
 | Adults have a total of 34 teeth.                                                                                   | Wrong                                      |
 | Adventure Book can be obtained through being presented from friends.                                               | Wrong                                      |
@@ -16,6 +17,7 @@ weight: 20
 | America's first military school was West Point.                                                                    | Correct                                    |
 | Amsterdam is the capital of Netherlands                                                                            | Correct                                    |
 | Anemometer is used for measuring wind speed.                                                                       | Correct                                    |
+| Basketball is the national game of the USA                                                                         | Wrong                                      |
 | Being idle 'can' obtain idle earning                                                                               | Correct                                    |
 | Being idle 'can't' obtain idle earning                                                                             | Wrong                                      |
 | Bueno Aires is the capital of Argentina                                                                            | Correct                                    |
@@ -56,7 +58,10 @@ weight: 20
 | Job Advancement can learn new skills                                                                               | Correct                                    |
 | Kyrin is the Bowman Instructor                                                                                     | Wrong                                      |
 | Leafre is positioned the Minar Forest                                                                              | Correct                                    |
+| Lith Harbour is the land and water transportation hub for Victoria Island                                          | Correct                                    |
 | Lotus' most beloved is Orchid                                                                                      | Correct                                    |
+| Madonna's real name is Madonna                                                                                     | Correct                                    |
+| Maple Island is not where the adventure begins                                                                     | Wrong                                      |
 | Max Planck discovered the theory of relativity                                                                     | Wrong                                      |
 | Michael Jordan totally got 7 Champions in his career                                                               | Wrong                                      |
 | Monster Cards can be gained through 'Summon' and 'Expedition Forces'                                               | Wrong                                      |
@@ -81,6 +86,7 @@ weight: 20
 | The adventure journey's challenge has no time constraint.                                                          | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                 | Correct                                    |
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                  | Wrong                                      |
+| The capital of Germany is Berlin                                                                                   | Correct                                    |
 | The capital of Japan is Osaka                                                                                      | Wrong                                      |
 | The capital of Russia is Saint Petersburg                                                                          | Wrong                                      |
 | The earliest red-and-white machine game Super Mario was produced by Nintendo                                       | Correct                                    |
@@ -105,3 +111,5 @@ weight: 20
 | Venus is the hottest planet in our solar system                                                                    | Correct                                    |
 | When approaching the enemy, automatic skills must be activated manually.                                           | Wrong                                      |
 | Winston Churchill was prime minister of Great Britain at the end of World War II                                   | Correct                                    |
+| You have 3 free times to challenge Monster Park                                                                    | Wrong                                      |
+| You will fail as long as one of the Attacking Monsters escapes                                                     | Wrong                                      |
