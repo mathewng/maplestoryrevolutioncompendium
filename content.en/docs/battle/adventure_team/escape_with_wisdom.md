@@ -12,6 +12,7 @@ weight: 20
 | Adults have a total of 34 teeth.                                                                                   | Wrong                                      |
 | Adventure Book can be obtained through being presented from friends.                                               | Wrong                                      |
 | After activating the pet's bond effect, the character will get the pet's bond attribute                            | Wrong                                      |
+| Air conditioning was invented by the Americans                                                                     | Correct                                    |
 | Alexander Graham Bell invented the telephone                                                                       | Correct                                    |
 | Alfie is 'afraid' of bugs                                                                                          | Correct                                    |
 | America's first military school was West Point.                                                                    | Correct                                    |
@@ -34,6 +35,7 @@ weight: 20
 | Dances with Balrog is the Warrior Instructor                                                                       | Correct                                    |
 | Dark Lord is the leader of the Flying Flower                                                                       | Wrong                                      |
 | Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                              | Wrong                                      |
+| Don Hwang is game guru                                                                                             | Wrong                                      |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                           | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                         | Correct                                    |
 | Each NBA team has 28 players                                                                                       | Wrong                                      |
@@ -65,6 +67,7 @@ weight: 20
 | Max Planck discovered the theory of relativity                                                                     | Wrong                                      |
 | Michael Jordan totally got 7 Champions in his career                                                               | Wrong                                      |
 | Monster Cards can be gained through 'Summon' and 'Expedition Forces'                                               | Wrong                                      |
+| Monster Park can obtain Equipment Star-up Materials                                                                | Correct                                    |
 | More people mean more powerful                                                                                     | (everyone must stand together on one side) |
 | Mount Everest is the tallest mountain in the world.                                                                | Correct                                    |
 | Neil Armstrong said the famous words: "That's one small step for man, one giant leap for mankind".                 | Correct                                    |
@@ -74,6 +77,7 @@ weight: 20
 | Orchid's most beloved is Gelimer                                                                                   | Wrong                                      |
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                 | Wrong                                      |
 | Panda is the national animal of China                                                                              | Correct                                    |
+| Paris is the capital of France                                                                                     | Correct                                    |
 | Reading the Adventure Book will help you comprehend the Maple Island better.                                       | Correct                                    |
 | Residents in Leafre are goblins                                                                                    | Wrong                                      |
 | Rune Wings can be dressed in the Fashion House                                                                     | Correct                                    |
@@ -86,6 +90,7 @@ weight: 20
 | The adventure journey's challenge has no time constraint.                                                          | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                 | Correct                                    |
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                  | Wrong                                      |
+| The Cactus family can be found in Lith Harbor                                                                      | Wrong                                      |
 | The capital of Germany is Berlin                                                                                   | Correct                                    |
 | The capital of Japan is Osaka                                                                                      | Wrong                                      |
 | The capital of Russia is Saint Petersburg                                                                          | Wrong                                      |
@@ -107,6 +112,7 @@ weight: 20
 | There are 26 letters in the English alphabet                                                                       | Correct                                    |
 | There are 8 colours in a rainbow                                                                                   | Wrong                                      |
 | Unclaimed Costume items " can not" be tired on in the Fashion House.                                               | Wrong                                      |
+| Unlocking the monster card slot requires levelling the character                                                   | Correct                                    |
 | Various rage skill upgrades require the 'same' skill manuals                                                       | Wrong                                      |
 | Venus is the hottest planet in our solar system                                                                    | Correct                                    |
 | When approaching the enemy, automatic skills must be activated manually.                                           | Wrong                                      |
