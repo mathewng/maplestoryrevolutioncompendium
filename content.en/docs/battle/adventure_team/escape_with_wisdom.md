@@ -49,12 +49,16 @@ weight: 20
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                              | Wrong                                      |
 | Fortune cookies were invented in China                                                                             | Wrong                                      |
 | Giraffe is the tallest animal in the world                                                                         | Correct                                    |
+| Goblins live in the Perion                                                                                         | Wrong                                      |
+| Greece hosted the first Olympic Games                                                                              | Correct                                    |
 | Grendel the Really Old is into beautiful women                                                                     | Wrong                                      |
 | Hamburg is the capital of Germany                                                                                  | Wrong                                      |
 | Helena is the Warrior Instructor                                                                                   | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia          | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                       | Correct                                    |
+| In the Expedition Forces, Zakum's Hands will all vanish, and he will enter third stage                             | Correct                                    |
+| In the Land of Chaos, each cycle lasts two days                                                                    | Correct                                    |
 | In the Victoria Island anomaly of Dimension Trail (Plot), Joey and Faie are twin sisters                           | Correct                                    |
 | Infants have more bones than adults.                                                                               | Correct                                    |
 | Job Advancement can learn new skills                                                                               | Correct                                    |
@@ -78,6 +82,7 @@ weight: 20
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                 | Wrong                                      |
 | Panda is the national animal of China                                                                              | Correct                                    |
 | Paris is the capital of France                                                                                     | Correct                                    |
+| Perion is the home of warriors                                                                                     | Correct                                    |
 | Reading the Adventure Book will help you comprehend the Maple Island better.                                       | Correct                                    |
 | Residents in Leafre are goblins                                                                                    | Wrong                                      |
 | Rune Wings can be dressed in the Fashion House                                                                     | Correct                                    |
@@ -86,6 +91,7 @@ weight: 20
 | Snow White was the first Disney Princess                                                                           | Correct                                    |
 | Spider has ten legs                                                                                                | Wrong                                      |
 | Stigmata Star-up needs to consume Potential stones                                                                 | Wrong                                      |
+| Strawberries is the only fruit with the seeds on the outside                                                       | Correct                                    |
 | Telescope is the instrument used to see stars                                                                      | Correct                                    |
 | The adventure journey's challenge has no time constraint.                                                          | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                 | Correct                                    |
