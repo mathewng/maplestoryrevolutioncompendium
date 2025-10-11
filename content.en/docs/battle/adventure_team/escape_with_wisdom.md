@@ -37,6 +37,7 @@ weight: 20
 | Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                              | Wrong                                      |
 | Don Hwang is game guru                                                                                             | Wrong                                      |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                           | Wrong                                      |
+| During the Great Arena battle, HP vials "may" be utilised                                                          | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                         | Correct                                    |
 | Each NBA team has 28 players                                                                                       | Wrong                                      |
 | Each quick combat can earn you up to 200 minutes of idle earning                                                   | Correct                                    |
@@ -46,6 +47,7 @@ weight: 20
 | Equipping different wings will change battle power                                                                 | Wrong                                      |
 | Even though dragonflies have six legs, they cannot walk                                                            | Correct                                    |
 | Every day, the Endless Hunting offers one free challenge                                                           | Correct                                    |
+| Everyday throughte the Trial of Alliance, the last challenge point is recorded in the statistics                   | Wrong                                      |
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                              | Wrong                                      |
 | Fortune cookies were invented in China                                                                             | Wrong                                      |
 | Giraffe is the tallest animal in the world                                                                         | Correct                                    |
@@ -54,6 +56,7 @@ weight: 20
 | Grendel the Really Old is into beautiful women                                                                     | Wrong                                      |
 | Hamburg is the capital of Germany                                                                                  | Wrong                                      |
 | Helena is the Warrior Instructor                                                                                   | Wrong                                      |
+| Henesys is the home of warriors                                                                                    | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia          | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                       | Correct                                    |
@@ -105,6 +108,7 @@ weight: 20
 | The first country in the world to use the subway is the United States                                              | Wrong                                      |
 | The founder of KFC is a Colonel.                                                                                   | Correct                                    |
 | The fruit of lemon has just one seed                                                                               | Wrong                                      |
+| The hardest part of the human body is the bones                                                                    | Wrong                                      |
 | The Horntail has two dragon heads in the Dusk Demesne                                                              | Wrong                                      |
 | The Incumbent Dark Lord's name is Lady Syl                                                                         | Wrong                                      |
 | The incumbent Dark Lord's name is Zhen.                                                                            | Correct                                    |
@@ -116,6 +120,7 @@ weight: 20
 | The World Cup is held every six years.                                                                             | Wrong                                      |
 | The World Cup is held every three years.                                                                           | Wrong                                      |
 | There are 26 letters in the English alphabet                                                                       | Correct                                    |
+| There are 30 NFL teams                                                                                             | Wrong                                      |
 | There are 8 colours in a rainbow                                                                                   | Wrong                                      |
 | Unclaimed Costume items " can not" be tired on in the Fashion House.                                               | Wrong                                      |
 | Unlocking the monster card slot requires levelling the character                                                   | Correct                                    |
