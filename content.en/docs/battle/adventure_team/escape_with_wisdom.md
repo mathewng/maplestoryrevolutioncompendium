@@ -21,6 +21,7 @@ weight: 20
 | Basketball is the national game of the USA                                                                         | Wrong                                      |
 | Being idle 'can' obtain idle earning                                                                               | Correct                                    |
 | Being idle 'can't' obtain idle earning                                                                             | Wrong                                      |
+| Buddha was a real person                                                                                           | Correct                                    |
 | Bueno Aires is the capital of Argentina                                                                            | Correct                                    |
 | Canada has the longest coastline in the world.                                                                     | Correct                                    |
 | Caterpillars turn into butterflies.                                                                                | Correct                                    |
@@ -39,6 +40,7 @@ weight: 20
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                           | Wrong                                      |
 | During the Great Arena battle, HP vials "may" be utilised                                                          | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                         | Correct                                    |
+| Dusk Desmene allows 'one-on-one' challenge                                                                         | Correct                                    |
 | Each NBA team has 28 players                                                                                       | Wrong                                      |
 | Each quick combat can earn you up to 200 minutes of idle earning                                                   | Correct                                    |
 | Endless Hunting requires a team to take on the challenge                                                           | Wrong                                      |
@@ -102,6 +104,7 @@ weight: 20
 | The Cactus family can be found in Lith Harbor                                                                      | Wrong                                      |
 | The capital of Germany is Berlin                                                                                   | Correct                                    |
 | The capital of Japan is Osaka                                                                                      | Wrong                                      |
+| The capital of Rome is Milan                                                                                       | Wrong                                      |
 | The capital of Russia is Saint Petersburg                                                                          | Wrong                                      |
 | The earliest red-and-white machine game Super Mario was produced by Nintendo                                       | Correct                                    |
 | The English abbreviation of the position of Chief Executive Officer is CFO.                                        | Wrong                                      |
