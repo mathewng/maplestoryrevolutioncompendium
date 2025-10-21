@@ -51,13 +51,16 @@ weight: 20
 | Every day, the Endless Hunting offers one free challenge                                                                               | Correct                                    |
 | Everyday throughte the Trial of Alliance, the last challenge point is recorded in the statistics                                       | Wrong                                      |
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                                                  | Wrong                                      |
+| Fish cannot blink                                                                                                                      | Correct                                    |
 | Fortune cookies were invented in China                                                                                                 | Wrong                                      |
 | Giraffe is the tallest animal in the world                                                                                             | Correct                                    |
 | Goblins live in the Perion                                                                                                             | Wrong                                      |
+| Gold Beach and Gold Beach are two different places                                                                                     | Wrong                                      |
 | Greece hosted the first Olympic Games                                                                                                  | Correct                                    |
 | Grendel the Really Old is into beautiful women                                                                                         | Wrong                                      |
 | Hamburg is the capital of Germany                                                                                                      | Wrong                                      |
 | Helena is the Warrior Instructor                                                                                                       | Wrong                                      |
+| Henesys is the home of bowman                                                                                                          | Correct                                    |
 | Henesys is the home of warriors                                                                                                        | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia                              | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding                     | Wrong                                      |
@@ -67,6 +70,7 @@ weight: 20
 | In the Victoria Island anomaly of Dimension Trail (Plot), Joey and Faie are twin sisters                                               | Correct                                    |
 | Infants have more bones than adults.                                                                                                   | Correct                                    |
 | Job Advancement can learn new skills                                                                                                   | Correct                                    |
+| Jupiter is the closest planet to Earth                                                                                                 | Wrong                                      |
 | Kyrin is the Bowman Instructor                                                                                                         | Wrong                                      |
 | Leafre is positioned the Minar Forest                                                                                                  | Correct                                    |
 | Lith Harbour is the land and water transportation hub for Victoria Island                                                              | Correct                                    |
@@ -99,6 +103,7 @@ weight: 20
 | Stigmata Star-up needs to consume Potential stones                                                                                     | Wrong                                      |
 | Strawberries is the only fruit with the seeds on the outside                                                                           | Correct                                    |
 | Telescope is the instrument used to see stars                                                                                          | Correct                                    |
+| The 'Progress Rewards' in each cycle can be claimed multiple times in the Land of Chaos.                                               | Wrong                                      |
 | The adventure journey's challenge has no time constraint.                                                                              | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                                     | Correct                                    |
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                                      | Wrong                                      |
