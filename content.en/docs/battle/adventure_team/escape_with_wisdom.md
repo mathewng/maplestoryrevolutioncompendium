@@ -56,12 +56,14 @@ weight: 20
 | Giraffe is the tallest animal in the world                                                                                             | Correct                                    |
 | Goblins live in the Perion                                                                                                             | Wrong                                      |
 | Gold Beach and Gold Beach are two different places                                                                                     | Wrong                                      |
+| Gold Beach is rich in various kinds of slime                                                                                           | Correct                                    |
 | Greece hosted the first Olympic Games                                                                                                  | Correct                                    |
 | Grendel the Really Old is into beautiful women                                                                                         | Wrong                                      |
 | Hamburg is the capital of Germany                                                                                                      | Wrong                                      |
 | Helena is the Warrior Instructor                                                                                                       | Wrong                                      |
 | Henesys is the home of bowman                                                                                                          | Correct                                    |
 | Henesys is the home of warriors                                                                                                        | Wrong                                      |
+| If you fail a challenge or quitting halfway at the Mu Lung Dojo, "the amount of challenges will not be removed."                       | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia                              | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding                     | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                                           | Correct                                    |
@@ -76,6 +78,7 @@ weight: 20
 | Lith Harbour is the land and water transportation hub for Victoria Island                                                              | Correct                                    |
 | Lotus' most beloved is Orchid                                                                                                          | Correct                                    |
 | Madonna's real name is Madonna                                                                                                         | Correct                                    |
+| Mango is the national fruit of India                                                                                                   | Correct                                    |
 | Maple Island is not where the adventure begins                                                                                         | Wrong                                      |
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                                      |
 | Michael Jordan totally got 7 Champions in his career                                                                                   | Wrong                                      |
@@ -107,6 +110,7 @@ weight: 20
 | The adventure journey's challenge has no time constraint.                                                                              | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                                     | Correct                                    |
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                                      | Wrong                                      |
+| The black box in a plane is black                                                                                                      | Wrong                                      |
 | The Cactus family can be found in Lith Harbor                                                                                          | Wrong                                      |
 | The capital of Germany is Berlin                                                                                                       | Correct                                    |
 | The capital of Japan is Osaka                                                                                                          | Wrong                                      |
