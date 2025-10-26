@@ -89,6 +89,7 @@ weight: 20
 | Neil Armstrong said the famous words: "That's one small step for man, one giant leap for mankind".                                     | Correct                                    |
 | Neinhart is the Queen of Maple World                                                                                                   | Wrong                                      |
 | Neinhart’s position is ‘Counselor’                                                                                                     | Correct                                    |
+| New York City is also referred to The Big Apple                                                                                        | Correct                                    |
 | New York City is the largest city in the United states                                                                                 | Correct                                    |
 | Orchid's most beloved is Gelimer                                                                                                       | Wrong                                      |
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                                     | Wrong                                      |
@@ -126,9 +127,11 @@ weight: 20
 | The Incumbent Dark Lord's name is Lady Syl                                                                                             | Wrong                                      |
 | The incumbent Dark Lord's name is Zhen.                                                                                                | Correct                                    |
 | The largest city in Brazil is Brasilia                                                                                                 | Wrong                                      |
+| The Mississipi river is the longest river in the world                                                                                 | Wrong                                      |
 | The Nihal Desert is brimmed of cacti                                                                                                   | Correct                                    |
 | The number of 'Dusk Keys' you have in Dusk Demesne will be reset to 1 the following day, regardless of how many you had the day before | Wrong                                      |
 | The river Seine in Paris is longer than the river Thames in London                                                                     | Correct                                    |
+| The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                                    |
 | The UK is located in the northern hemisphere                                                                                           | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                                                   | Correct                                    |
 | The World Cup is held every four years.                                                                                                | Correct                                    |
