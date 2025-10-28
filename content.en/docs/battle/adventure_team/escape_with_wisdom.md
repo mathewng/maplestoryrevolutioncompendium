@@ -53,6 +53,7 @@ weight: 20
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                                                  | Wrong                                      |
 | Fish cannot blink                                                                                                                      | Correct                                    |
 | Fortune cookies were invented in China                                                                                                 | Wrong                                      |
+| From Monday through Saturday is World Boss Crusade time                                                                                | Wrong                                      |
 | Giraffe is the tallest animal in the world                                                                                             | Correct                                    |
 | Goblins live in the Perion                                                                                                             | Wrong                                      |
 | Gold Beach and Gold Beach are two different places                                                                                     | Wrong                                      |
@@ -70,6 +71,7 @@ weight: 20
 | In the Expedition Forces, Zakum's Hands will all vanish, and he will enter third stage                                                 | Correct                                    |
 | In the Land of Chaos, each cycle lasts two days                                                                                        | Correct                                    |
 | In the Victoria Island anomaly of Dimension Trail (Plot), Joey and Faie are twin sisters                                               | Correct                                    |
+| In the Victoria Island anomaly of Dimension Trail (Plot), Joey and the Ephenia are twin sisters                                        | Wrong                                      |
 | Infants have more bones than adults.                                                                                                   | Correct                                    |
 | Job Advancement can learn new skills                                                                                                   | Correct                                    |
 | Jupiter is the closest planet to Earth                                                                                                 | Wrong                                      |
@@ -132,11 +134,13 @@ weight: 20
 | The number of 'Dusk Keys' you have in Dusk Demesne will be reset to 1 the following day, regardless of how many you had the day before | Wrong                                      |
 | The river Seine in Paris is longer than the river Thames in London                                                                     | Correct                                    |
 | The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                                    |
+| The speed of light is faster than the speed of sound                                                                                   | Correct                                    |
 | The UK is located in the northern hemisphere                                                                                           | Correct                                    |
 | The World BOSS Auction ends at 22:00                                                                                                   | Correct                                    |
 | The World Cup is held every four years.                                                                                                | Correct                                    |
 | The World Cup is held every six years.                                                                                                 | Wrong                                      |
 | The World Cup is held every three years.                                                                                               | Wrong                                      |
+| There are 10 players are there on a baseball team                                                                                      | Wrong                                      |
 | There are 26 letters in the English alphabet                                                                                           | Correct                                    |
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
@@ -147,5 +151,6 @@ weight: 20
 | Venus is the hottest planet in our solar system                                                                                        | Correct                                    |
 | When approaching the enemy, automatic skills must be activated manually.                                                               | Wrong                                      |
 | Winston Churchill was prime minister of Great Britain at the end of World War II                                                       | Correct                                    |
+| World BOSS Battle start from 12:00-20:00 every day                                                                                     | Correct                                    |
 | You have 3 free times to challenge Monster Park                                                                                        | Wrong                                      |
 | You will fail as long as one of the Attacking Monsters escapes                                                                         | Wrong                                      |
