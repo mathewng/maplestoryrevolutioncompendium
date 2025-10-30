@@ -136,6 +136,8 @@ weight: 20
 | The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                                    |
 | The speed of light is faster than the speed of sound                                                                                   | Correct                                    |
 | The UK is located in the northern hemisphere                                                                                           | Correct                                    |
+| The United States is located in the southern hemisphere                                                                                | Wrong                                      |
+| The World BOSS Auction begins at 20:00                                                                                                 | Wrong                                      |
 | The World BOSS Auction ends at 22:00                                                                                                   | Correct                                    |
 | The World Cup is held every four years.                                                                                                | Correct                                    |
 | The World Cup is held every six years.                                                                                                 | Wrong                                      |
@@ -143,6 +145,7 @@ weight: 20
 | There are 10 players are there on a baseball team                                                                                      | Wrong                                      |
 | There are 26 letters in the English alphabet                                                                                           | Correct                                    |
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
+| There are 40 dots on two dice                                                                                                          | Wrong                                      |
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
 | Tiger Woods is known for golf                                                                                                          | Correct                                    |
 | Unclaimed Costume items " can not" be tired on in the Fashion House.                                                                   | Wrong                                      |
