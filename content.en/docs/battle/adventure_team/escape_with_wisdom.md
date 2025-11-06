@@ -36,6 +36,7 @@ weight: 20
 | Dances with Balrog is the Warrior Instructor                                                                                           | Correct                                    |
 | Dark Lord is the leader of the Flying Flower                                                                                           | Wrong                                      |
 | Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                                                  | Wrong                                      |
+| Disk Demesne allows each team member to contribute four openable chests                                                                | Correct                                    |
 | Don Hwang is game guru                                                                                                                 | Wrong                                      |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                                               | Wrong                                      |
 | During the Great Arena battle, HP vials "may" be utilised                                                                              | Wrong                                      |
@@ -50,6 +51,7 @@ weight: 20
 | Even though dragonflies have six legs, they cannot walk                                                                                | Correct                                    |
 | Every day, the Endless Hunting offers one free challenge                                                                               | Correct                                    |
 | Everyday throughte the Trial of Alliance, the last challenge point is recorded in the statistics                                       | Wrong                                      |
+| Excess furniture cannot be dismantled                                                                                                  | Wrong                                      |
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                                                  | Wrong                                      |
 | Fish cannot blink                                                                                                                      | Correct                                    |
 | Fortune cookies were invented in China                                                                                                 | Wrong                                      |
@@ -64,6 +66,7 @@ weight: 20
 | Helena is the Warrior Instructor                                                                                                       | Wrong                                      |
 | Henesys is the home of bowman                                                                                                          | Correct                                    |
 | Henesys is the home of warriors                                                                                                        | Wrong                                      |
+| Hydrogen is the lightest gas                                                                                                           | Correct                                    |
 | If you fail a challenge or quitting halfway at the Mu Lung Dojo, "the amount of challenges will not be removed."                       | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia                              | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding                     | Wrong                                      |
@@ -83,6 +86,7 @@ weight: 20
 | Mango is the national fruit of India                                                                                                   | Correct                                    |
 | Maple Island is not where the adventure begins                                                                                         | Wrong                                      |
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                                      |
+| Michael Jordan is known for basketball                                                                                                 | Correct                                    |
 | Michael Jordan totally got 7 Champions in his career                                                                                   | Wrong                                      |
 | Monster Cards can be gained through 'Summon' and 'Expedition Forces'                                                                   | Wrong                                      |
 | Monster Park can obtain Equipment Star-up Materials                                                                                    | Correct                                    |
@@ -91,6 +95,7 @@ weight: 20
 | Neil Armstrong said the famous words: "That's one small step for man, one giant leap for mankind".                                     | Correct                                    |
 | Neinhart is the Queen of Maple World                                                                                                   | Wrong                                      |
 | Neinhart’s position is ‘Counselor’                                                                                                     | Correct                                    |
+| Neinhart’s position is ‘Warrior’                                                                                                       | Wrong                                      |
 | New York City is also referred to The Big Apple                                                                                        | Correct                                    |
 | New York City is the largest city in the United states                                                                                 | Correct                                    |
 | Orchid's most beloved is Gelimer                                                                                                       | Wrong                                      |
@@ -136,6 +141,7 @@ weight: 20
 | The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                                    |
 | The speed of light is faster than the speed of sound                                                                                   | Correct                                    |
 | The UK is located in the northern hemisphere                                                                                           | Correct                                    |
+| The United States has the longest coastline in the world.                                                                              | Wrong                                      |
 | The United States is located in the southern hemisphere                                                                                | Wrong                                      |
 | The World BOSS Auction begins at 20:00                                                                                                 | Wrong                                      |
 | The World BOSS Auction ends at 22:00                                                                                                   | Correct                                    |
