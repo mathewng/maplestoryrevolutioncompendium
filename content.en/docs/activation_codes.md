@@ -28,6 +28,7 @@ These codes are released through its official [Facebook](https://www.facebook.co
 # List of Activation Codes
 | Publish date      | Activation code  |
 | ----------------- | ---------------- |
+| 10 Nov 2025       | OCTPERRY25       |
 | 3 Nov 2025        | OCTCOCOO25       |
 | 27 Oct 2025       | SEPNEW25         |
 | 20 Oct 2025       | SEPPERY25        |
