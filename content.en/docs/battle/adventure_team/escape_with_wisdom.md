@@ -47,6 +47,7 @@ weight: 20
 | Endless Hunting requires a team to take on the challenge                                                                               | Wrong                                      |
 | Ephenia is the leader of the Fairy                                                                                                     | Correct                                    |
 | Ephenia is the leader of the Snails                                                                                                    | Wrong                                      |
+| Equipment star-up resources can be obtained from "Adventurer Training Field"                                                           | Wrong                                      |
 | Equipping different wings will change battle power                                                                                     | Wrong                                      |
 | Even though dragonflies have six legs, they cannot walk                                                                                | Correct                                    |
 | Every day, the Endless Hunting offers one free challenge                                                                               | Correct                                    |
@@ -138,6 +139,7 @@ weight: 20
 | The Nihal Desert is brimmed of cacti                                                                                                   | Correct                                    |
 | The number of 'Dusk Keys' you have in Dusk Demesne will be reset to 1 the following day, regardless of how many you had the day before | Wrong                                      |
 | The river Seine in Paris is longer than the river Thames in London                                                                     | Correct                                    |
+| The Sahara Desert is the largest in the world                                                                                          | Correct                                    |
 | The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                                    |
 | The speed of light is faster than the speed of sound                                                                                   | Correct                                    |
 | The UK is located in the northern hemisphere                                                                                           | Correct                                    |
@@ -153,6 +155,7 @@ weight: 20
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
 | There are 40 dots on two dice                                                                                                          | Wrong                                      |
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
+| There are only 30 days in May                                                                                                          | Wrong                                      |
 | Tiger Woods is known for golf                                                                                                          | Correct                                    |
 | Unclaimed Costume items " can not" be tired on in the Fashion House.                                                                   | Wrong                                      |
 | Unlocking the monster card slot requires levelling the character                                                                       | Correct                                    |
@@ -161,5 +164,6 @@ weight: 20
 | When approaching the enemy, automatic skills must be activated manually.                                                               | Wrong                                      |
 | Winston Churchill was prime minister of Great Britain at the end of World War II                                                       | Correct                                    |
 | World BOSS Battle start from 12:00-20:00 every day                                                                                     | Correct                                    |
+| You can sneeze in your sleep                                                                                                           | Wrong                                      |
 | You have 3 free times to challenge Monster Park                                                                                        | Wrong                                      |
 | You will fail as long as one of the Attacking Monsters escapes                                                                         | Wrong                                      |
