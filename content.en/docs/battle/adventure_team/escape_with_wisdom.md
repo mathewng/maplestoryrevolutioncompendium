@@ -70,6 +70,7 @@ weight: 20
 | Hydrogen is the lightest gas                                                                                                           | Correct                                    |
 | If you fail a challenge or quitting halfway at the Mu Lung Dojo, "the amount of challenges will not be removed."                       | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia                              | Wrong                                      |
+| In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Crimson Balrog Battmond                               | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding                     | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                                           | Correct                                    |
 | In the Expedition Forces, Zakum's Hands will all vanish, and he will enter third stage                                                 | Correct                                    |
@@ -84,6 +85,7 @@ weight: 20
 | Lith Harbour is the land and water transportation hub for Victoria Island                                                              | Correct                                    |
 | Lotus' most beloved is Orchid                                                                                                          | Correct                                    |
 | Madonna's real name is Madonna                                                                                                         | Correct                                    |
+| Mai is the adventurer guide                                                                                                            | Correct                                    |
 | Mango is the national fruit of India                                                                                                   | Correct                                    |
 | Maple Island is not where the adventure begins                                                                                         | Wrong                                      |
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                                      |
@@ -99,6 +101,7 @@ weight: 20
 | Neinhart’s position is ‘Warrior’                                                                                                       | Wrong                                      |
 | New York City is also referred to The Big Apple                                                                                        | Correct                                    |
 | New York City is the largest city in the United states                                                                                 | Correct                                    |
+| No level limit to Job Advancement                                                                                                      | Wrong                                      |
 | Orchid's most beloved is Gelimer                                                                                                       | Wrong                                      |
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                                     | Wrong                                      |
 | Panda is the national animal of China                                                                                                  | Correct                                    |
@@ -117,6 +120,7 @@ weight: 20
 | Telescope is the instrument used to see stars                                                                                          | Correct                                    |
 | The 'Progress Rewards' in each cycle can be claimed multiple times in the Land of Chaos.                                               | Wrong                                      |
 | The adventure journey's challenge has no time constraint.                                                                              | Wrong                                      |
+| The adventure journey's challenge level has no time constraint                                                                         | Wrong                                      |
 | The African Elephant is the largest land animal to roam the planet                                                                     | Correct                                    |
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                                      | Wrong                                      |
 | The black box in a plane is black                                                                                                      | Wrong                                      |
@@ -154,6 +158,7 @@ weight: 20
 | There are 26 letters in the English alphabet                                                                                           | Correct                                    |
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
 | There are 40 dots on two dice                                                                                                          | Wrong                                      |
+| There are 7 colours in a rainbow                                                                                                       | Correct                                    |
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
 | There are only 30 days in May                                                                                                          | Wrong                                      |
 | Tiger Woods is known for golf                                                                                                          | Correct                                    |
