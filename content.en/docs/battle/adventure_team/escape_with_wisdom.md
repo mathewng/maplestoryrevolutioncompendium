@@ -63,6 +63,7 @@ weight: 20
 | Gold Beach is rich in various kinds of slime                                                                                           | Correct                                    |
 | Greece hosted the first Olympic Games                                                                                                  | Correct                                    |
 | Grendel the Really Old is into beautiful women                                                                                         | Wrong                                      |
+| Grendel the Really Old is into wine                                                                                                    | Correct                                    |
 | Hamburg is the capital of Germany                                                                                                      | Wrong                                      |
 | Helena is the Warrior Instructor                                                                                                       | Wrong                                      |
 | Henesys is the home of bowman                                                                                                          | Correct                                    |
@@ -85,6 +86,8 @@ weight: 20
 | Lith Harbour is the land and water transportation hub for Victoria Island                                                              | Correct                                    |
 | Lotus' most beloved is Orchid                                                                                                          | Correct                                    |
 | Madonna's real name is Madonna                                                                                                         | Correct                                    |
+| Mahatma Gandhi was king of India.                                                                                                      | Wrong                                      |
+| Mai is not an adventurer guide                                                                                                         | Wrong                                      |
 | Mai is the adventurer guide                                                                                                            | Correct                                    |
 | Mango is the national fruit of India                                                                                                   | Correct                                    |
 | Maple Island is not where the adventure begins                                                                                         | Wrong                                      |
@@ -101,6 +104,7 @@ weight: 20
 | Neinhart’s position is ‘Warrior’                                                                                                       | Wrong                                      |
 | New York City is also referred to The Big Apple                                                                                        | Correct                                    |
 | New York City is the largest city in the United states                                                                                 | Correct                                    |
+| No level limit to Job Advancement                                                                                                      | Wrong                                      |
 | No level limit to Job Advancement                                                                                                      | Wrong                                      |
 | Orchid's most beloved is Gelimer                                                                                                       | Wrong                                      |
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                                     | Wrong                                      |
