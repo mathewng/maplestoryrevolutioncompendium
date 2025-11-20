@@ -50,7 +50,7 @@ disableKinds = ['taxonomy']
 
 [[menu.home]]
   name = "อ่านเป็นภาษาไทย"
-  url = "https://mathewng-github-io.translate.goog/maplestoryrevolutioncompendium/?_x_tr_sl=en&_x_tr_tl=th&_x_tr_hl=en"
+  url = "https://maplestoryrevolution-honbb-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=th&_x_tr_hl=en"
   weight = 2
 
 [[menu.home]]
