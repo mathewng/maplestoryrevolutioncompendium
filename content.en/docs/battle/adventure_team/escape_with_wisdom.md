@@ -13,6 +13,7 @@ weight: 20
 | Adventure Book can be obtained through being presented from friends.                                                                   | Wrong                                      |
 | After activating the pet's bond effect, the character will get the pet's bond attribute                                                | Wrong                                      |
 | Air conditioning was invented by the Americans                                                                                         | Correct                                    |
+| Air conditioning was invented by the French                                                                                            | Wrong                                      |
 | Alexander Graham Bell invented the telephone                                                                                           | Correct                                    |
 | Alfie is 'afraid' of bugs                                                                                                              | Correct                                    |
 | America's first military school was West Point.                                                                                        | Correct                                    |
@@ -36,6 +37,7 @@ weight: 20
 | Dances with Balrog is the Warrior Instructor                                                                                           | Correct                                    |
 | Dark Lord is the leader of the Flying Flower                                                                                           | Wrong                                      |
 | Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                                                  | Wrong                                      |
+| Dimension Trail (Plot) can be accessed multiple times.                                                                                 | Wrong                                      |
 | Disk Demesne allows each team member to contribute four openable chests                                                                | Correct                                    |
 | Don Hwang is game guru                                                                                                                 | Wrong                                      |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                                               | Wrong                                      |
@@ -118,6 +120,7 @@ weight: 20
 | Shiki doesn't like to play games                                                                                                       | Wrong                                      |
 | Siri is the voice-controlled feature of Google's mobile app in the United States                                                       | Wrong                                      |
 | Snow White was the first Disney Princess                                                                                               | Correct                                    |
+| South Africa has one capital.                                                                                                          | Wrong                                      |
 | Spider has ten legs                                                                                                                    | Wrong                                      |
 | Stigmata Star-up needs to consume Potential stones                                                                                     | Wrong                                      |
 | Strawberries is the only fruit with the seeds on the outside                                                                           | Correct                                    |
