@@ -22,6 +22,7 @@ weight: 20
 | Basketball is the national game of the USA                                                                                             | Wrong                                      |
 | Being idle 'can' obtain idle earning                                                                                                   | Correct                                    |
 | Being idle 'can't' obtain idle earning                                                                                                 | Wrong                                      |
+| Boogie is an intelligence agent for the "Knights of Adventure"                                                                         | Correct                                    |
 | Buddha was a real person                                                                                                               | Correct                                    |
 | Bueno Aires is the capital of Argentina                                                                                                | Correct                                    |
 | Canada has the longest coastline in the world.                                                                                         | Correct                                    |
@@ -31,6 +32,7 @@ weight: 20
 | Cheesecake first originated in Greece                                                                                                  | Correct                                    |
 | Chicago is the largest city in the United States                                                                                       | Wrong                                      |
 | China has the longest coastline in the world.                                                                                          | Wrong                                      |
+| Chun Ji is Manji's older brother                                                                                                       | Wrong                                      |
 | Cinderella's carriage turns into a potato                                                                                              | Wrong                                      |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics                       | Correct                                    |
 | Dances with Balrog is the Magician Instructor                                                                                          | Wrong                                      |
@@ -63,6 +65,7 @@ weight: 20
 | Goblins live in the Perion                                                                                                             | Wrong                                      |
 | Gold Beach and Gold Beach are two different places                                                                                     | Wrong                                      |
 | Gold Beach is rich in various kinds of slime                                                                                           | Correct                                    |
+| Gravity keeps us grounded on Earth                                                                                                     | Correct                                    |
 | Greece hosted the first Olympic Games                                                                                                  | Correct                                    |
 | Grendel the Really Old is into beautiful women                                                                                         | Wrong                                      |
 | Grendel the Really Old is into wine                                                                                                    | Correct                                    |
