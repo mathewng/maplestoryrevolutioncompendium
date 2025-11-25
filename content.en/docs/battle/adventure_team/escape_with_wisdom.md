@@ -45,7 +45,6 @@ weight: 20
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                                               | Wrong                                      |
 | During the Great Arena battle, HP vials "may" be utilised                                                                              | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                                             | Correct                                    |
-| Dusk Desmene allows 'one-on-one' challenge                                                                                             | Correct                                    |
 | Each NBA team has 28 players                                                                                                           | Wrong                                      |
 | Each quick combat can earn you up to 200 minutes of idle earning                                                                       | Correct                                    |
 | Endless Hunting requires a team to take on the challenge                                                                               | Wrong                                      |
@@ -91,6 +90,7 @@ weight: 20
 | Lith Harbour is the land and water transportation hub for Victoria Island                                                              | Correct                                    |
 | Lotus' most beloved is Orchid                                                                                                          | Correct                                    |
 | Madonna's real name is Madonna                                                                                                         | Correct                                    |
+| Magellan was the first person to circumnavigate the Earth.                                                                             | Correct                                    |
 | Mahatma Gandhi was king of India.                                                                                                      | Wrong                                      |
 | Mai is not an adventurer guide                                                                                                         | Wrong                                      |
 | Mai is the adventurer guide                                                                                                            | Correct                                    |
@@ -118,6 +118,7 @@ weight: 20
 | Perion is the home of warriors                                                                                                         | Correct                                    |
 | Reading the Adventure Book will help you comprehend the Maple Island better.                                                           | Correct                                    |
 | Residents in Leafre are goblins                                                                                                        | Wrong                                      |
+| Residents in the Ludibrium do not age                                                                                                  | Correct                                    |
 | Residents of Ludibrium are all toys                                                                                                    | Wrong                                      |
 | Rune Wings can be dressed in the Fashion House                                                                                         | Correct                                    |
 | Shiki doesn't like to play games                                                                                                       | Wrong                                      |
@@ -137,6 +138,7 @@ weight: 20
 | The Cactus family can be found in Lith Harbor                                                                                          | Wrong                                      |
 | The capital of Germany is Berlin                                                                                                       | Correct                                    |
 | The capital of Japan is Osaka                                                                                                          | Wrong                                      |
+| The capital of of the UK is Manchester                                                                                                 | Wrong                                      |
 | The capital of Rome is Milan                                                                                                           | Wrong                                      |
 | The capital of Russia is Saint Petersburg                                                                                              | Wrong                                      |
 | The earliest red-and-white machine game Super Mario was produced by Nintendo                                                           | Correct                                    |
