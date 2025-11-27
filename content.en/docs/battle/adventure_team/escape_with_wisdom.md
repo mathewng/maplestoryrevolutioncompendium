@@ -78,6 +78,7 @@ weight: 20
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Crimson Balrog Battmond                               | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding                     | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                                           | Correct                                    |
+| In the Expedition Forces, touching Vellum's Venom stuns                                                                                | Wrong                                      |
 | In the Expedition Forces, Zakum's Hands will all vanish, and he will enter third stage                                                 | Correct                                    |
 | In the Land of Chaos, each cycle lasts two days                                                                                        | Correct                                    |
 | In the Victoria Island anomaly of Dimension Trail (Plot), Joey and Faie are twin sisters                                               | Correct                                    |
@@ -146,6 +147,7 @@ weight: 20
 | The first country in the world to use the subway is the United States                                                                  | Wrong                                      |
 | The founder of KFC is a Colonel.                                                                                                       | Correct                                    |
 | The fruit of lemon has just one seed                                                                                                   | Wrong                                      |
+| The greater the Mu Lung Dojo's challenge layers, the better the daily award                                                            | Correct                                    |
 | The hardest part of the human body is the bones                                                                                        | Wrong                                      |
 | The Horntail has two dragon heads in the Dusk Demesne                                                                                  | Wrong                                      |
 | The Incumbent Dark Lord's name is Lady Syl                                                                                             | Wrong                                      |
@@ -153,6 +155,7 @@ weight: 20
 | The largest city in Brazil is Brasilia                                                                                                 | Wrong                                      |
 | The Mississipi river is the longest river in the world                                                                                 | Wrong                                      |
 | The Nihal Desert is brimmed of cacti                                                                                                   | Correct                                    |
+| The Nihal Desert is home to all kinds of fresh seafood                                                                                 | Wrong                                      |
 | The number of 'Dusk Keys' you have in Dusk Demesne will be reset to 1 the following day, regardless of how many you had the day before | Wrong                                      |
 | The river Seine in Paris is longer than the river Thames in London                                                                     | Correct                                    |
 | The Sahara Desert is the largest in the world                                                                                          | Correct                                    |
