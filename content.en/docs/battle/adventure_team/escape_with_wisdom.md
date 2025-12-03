@@ -42,6 +42,7 @@ weight: 20
 | Dimension Trail (Plot) can be accessed multiple times.                                                                                 | Wrong                                      |
 | Disk Demesne allows each team member to contribute four openable chests                                                                | Correct                                    |
 | Don Hwang is game guru                                                                                                                 | Wrong                                      |
+| Duck is known to have waterproof feathers                                                                                              | Correct                                    |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                                               | Wrong                                      |
 | During the Great Arena battle, HP vials "may" be utilised                                                                              | Wrong                                      |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                                             | Correct                                    |
@@ -144,6 +145,7 @@ weight: 20
 | The capital of Russia is Saint Petersburg                                                                                              | Wrong                                      |
 | The earliest red-and-white machine game Super Mario was produced by Nintendo                                                           | Correct                                    |
 | The English abbreviation of the position of Chief Executive Officer is CFO.                                                            | Wrong                                      |
+| The first country in the world to use the subway is France                                                                             | Wrong                                      |
 | The first country in the world to use the subway is the United States                                                                  | Wrong                                      |
 | The founder of KFC is a Colonel.                                                                                                       | Correct                                    |
 | The fruit of lemon has just one seed                                                                                                   | Wrong                                      |
