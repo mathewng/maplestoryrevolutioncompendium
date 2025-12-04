@@ -54,6 +54,7 @@ weight: 20
 | Equipment star-up resources can be obtained from "Adventurer Training Field"                                                           | Wrong                                      |
 | Equipping different wings will change battle power                                                                                     | Wrong                                      |
 | Even though dragonflies have six legs, they cannot walk                                                                                | Correct                                    |
+| Every day, Lucid's Dream only offers three challenges                                                                                  | Correct                                    |
 | Every day, the Endless Hunting offers one free challenge                                                                               | Correct                                    |
 | Everyday throughte the Trial of Alliance, the last challenge point is recorded in the statistics                                       | Wrong                                      |
 | Excess furniture cannot be dismantled                                                                                                  | Wrong                                      |
@@ -78,6 +79,7 @@ weight: 20
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia                              | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Crimson Balrog Battmond                               | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding                     | Wrong                                      |
+| In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl finally resolved the misunderstanding                   | Correct                                    |
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                                           | Correct                                    |
 | In the Expedition Forces, touching Vellum's Venom stuns                                                                                | Wrong                                      |
 | In the Expedition Forces, Zakum's Hands will all vanish, and he will enter third stage                                                 | Correct                                    |
@@ -101,10 +103,12 @@ weight: 20
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                                      |
 | Michael Jordan is known for basketball                                                                                                 | Correct                                    |
 | Michael Jordan totally got 7 Champions in his career                                                                                   | Wrong                                      |
+| Monaco is the smallest country in the world                                                                                            | Wrong                                      |
 | Monster Cards can be gained through 'Summon' and 'Expedition Forces'                                                                   | Wrong                                      |
 | Monster Park can obtain Equipment Star-up Materials                                                                                    | Correct                                    |
 | More people mean more powerful                                                                                                         | (everyone must stand together on one side) |
 | Mount Everest is the tallest mountain in the world.                                                                                    | Correct                                    |
+| Muggle is a word from Harry Potter that is now included in the Oxford English Dictionary.                                              | Correct                                    |
 | Neil Armstrong said the famous words: "That's one small step for man, one giant leap for mankind".                                     | Correct                                    |
 | Neinhart is the Queen of Maple World                                                                                                   | Wrong                                      |
 | Neinhart’s position is ‘Counselor’                                                                                                     | Correct                                    |
