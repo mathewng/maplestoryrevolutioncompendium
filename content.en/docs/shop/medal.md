@@ -5,9 +5,37 @@ weight: 10
 
 # Medal
 
+Earning medals provides various medal privileges.
+Medals decorate the avatar name and can be equipped or unequipped anytime in the Shop.
+
+| Medal | Colour Grade | Name                           |
+| ----- | ------------ | ------------------------------ |
+| 1     | Grey         | Novice Adventurer              |
+| 2     | Green        | Spirit Academy Medal           |
+| 3     | Green        | World Tree Explorer            |
+| 4     | Blue         | Sage of Cloud and Wind         |
+| 5     | Blue         | Winged Voyager                 |
+| 6     | Blue         | Treasure Hunter                |
+| 7     | Purple       | Maple Leaf Guardian            |
+| 8     | Purple       | Guardian of Sun                |
+| 9     | Purple       | Weaver of Dreams               |
+| 10    | Purple       | Elegant Prayer                 |
+| 11    | Gold         | Kumquat Taster                 |
+| 12    | Gold         | Endless Fun Cup                |
+| 13    | Gold         | Blooming Creature              |
+| 14    | Gold         | Echoes of Motto                |
+| 15    | Gold         | Master Adventurer              |
+| 16    | Orange       | Fate Challenger                |
+| 17    | Orange       | Alliance Backbone              |
+| 18    | Orange       | The strongest handshake master |
+| 19    | Orange       | Rabbit Caretaker               |
+| 20    | Orange       | little Monster Trainer         |
+| 21    | Red          | Glorious Priceless Cup         |
+
+# Medal Prestige
+
 The table below lists the prestige and reward for various medal levels.
 The prestige is calculated and it is not confirmed there are 100 medal levels.
-
 
 | Medal | Star | Prestige required to attain | Reward                                                  |
 | ----- | ---- | --------------------------- | ------------------------------------------------------- |
