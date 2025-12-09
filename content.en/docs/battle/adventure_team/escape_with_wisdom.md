@@ -66,6 +66,7 @@ weight: 20
 | Goblins live in the Perion                                                                                                             | Wrong                                      |
 | Gold Beach and Gold Beach are two different places                                                                                     | Wrong                                      |
 | Gold Beach is rich in various kinds of slime                                                                                           | Correct                                    |
+| Goldfish have a two second memory                                                                                                      | Wrong                                      |
 | Gravity keeps us grounded on Earth                                                                                                     | Correct                                    |
 | Greece hosted the first Olympic Games                                                                                                  | Correct                                    |
 | Grendel the Really Old is into beautiful women                                                                                         | Wrong                                      |
@@ -91,6 +92,7 @@ weight: 20
 | Jupiter is the closest planet to Earth                                                                                                 | Wrong                                      |
 | Kyrin is the Bowman Instructor                                                                                                         | Wrong                                      |
 | Leafre is positioned the Minar Forest                                                                                                  | Correct                                    |
+| Lionel Messi is known for football                                                                                                     | Correct                                    |
 | Lith Harbour is the land and water transportation hub for Victoria Island                                                              | Correct                                    |
 | Lotus' most beloved is Orchid                                                                                                          | Correct                                    |
 | Madonna's real name is Madonna                                                                                                         | Correct                                    |
@@ -159,6 +161,7 @@ weight: 20
 | The Incumbent Dark Lord's name is Lady Syl                                                                                             | Wrong                                      |
 | The incumbent Dark Lord's name is Zhen.                                                                                                | Correct                                    |
 | The largest city in Brazil is Brasilia                                                                                                 | Wrong                                      |
+| The longest-lived animal is elephant                                                                                                   | Wrong                                      |
 | The Mississipi river is the longest river in the world                                                                                 | Wrong                                      |
 | The Nihal Desert is brimmed of cacti                                                                                                   | Correct                                    |
 | The Nihal Desert is home to all kinds of fresh seafood                                                                                 | Wrong                                      |
