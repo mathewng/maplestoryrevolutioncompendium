@@ -35,6 +35,7 @@ weight: 20
 | Chun Ji is Manji's older brother                                                                                                       | Wrong                                      |
 | Cinderella's carriage turns into a potato                                                                                              | Wrong                                      |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics                       | Correct                                    |
+| Consume "Abyss Pass" to challenge the Dark Abyss                                                                                       | Correct                                    |
 | Dances with Balrog is the Magician Instructor                                                                                          | Wrong                                      |
 | Dances with Balrog is the Warrior Instructor                                                                                           | Correct                                    |
 | Dark Lord is the leader of the Flying Flower                                                                                           | Wrong                                      |
@@ -180,6 +181,7 @@ weight: 20
 | The World Cup is held every three years.                                                                                               | Wrong                                      |
 | There are 10 players are there on a baseball team                                                                                      | Wrong                                      |
 | There are 26 letters in the English alphabet                                                                                           | Correct                                    |
+| There are 29 days in February every 5 years                                                                                            | Wrong                                      |
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
 | There are 40 dots on two dice                                                                                                          | Wrong                                      |
 | There are 7 colours in a rainbow                                                                                                       | Correct                                    |
