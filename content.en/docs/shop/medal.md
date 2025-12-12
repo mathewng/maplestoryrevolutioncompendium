@@ -73,7 +73,7 @@ The prestige is calculated and it is not confirmed there are 100 medal levels.
 | 7     | 3    | 109915                      | 950 Body ANE                                                  |
 | 7     | 4    | 121315                      | 1000 Body ANE                                                 |
 | 7     | 5    | 133415                      | 1050 Body ANE                                                 |
-| 8     | 1    | 146215                      | Eyes Pack (Male): Night walk - Rare Silver Eyes               |
+| 8     | 1    | 146215                      | Eyes Pack (Male): Night Walk - Rare Silver Eyes               |
 | 8     | 1    | 146215                      | Eyes Pack (Female): Ballet - Crystal Blue Eyes                |
 | 8     | 2    | 159815                      | 1100 Body ANE                                                 |
 | 8     | 3    | 174215                      | 1150 Body ANE                                                 |
@@ -117,7 +117,7 @@ The prestige is calculated and it is not confirmed there are 100 medal levels.
 | 15    | 3    | 1324315                     | 2550 Body ANE                                                 |
 | 15    | 4    | 1380115                     | 2600 Body ANE                                                 |
 | 15    | 5    | 1437415                     | 2650 Body ANE                                                 |
-| 16    | 1    | 1496215                     | Light Prayer Pack (Male/Female???): Angel - Light Prayer hair |
+| 16    | 1    | 1496215                     | Light Prayer Pack (Male & Female): Angel - Light Prayer hair  |
 | 16    | 2    | 1556615                     | 2700 Body ANE                                                 |
 | 16    | 3    | 1618615                     | 2750 Body ANE                                                 |
 | 16    | 4    | 1682215                     | 2800 Body ANE                                                 |
@@ -139,7 +139,7 @@ The prestige is calculated and it is not confirmed there are 100 medal levels.
 | 19    | 3    | 2751515                     | 3350 Body ANE                                                 |
 | 19    | 4    | 2841515                     | 3400 Body ANE                                                 |
 | 19    | 5    | 2933415                     | 3450 Body ANE                                                 |
-| 20    | 1    | 3027215                     | Angel's Halo Pack (Male/Female???): Angel - Angel's Halo      |
+| 20    | 1    | 3027215                     | Angel's Halo Pack (Male & Female): Angel - Angel's Halo      |
 | 20    | 2    | 3123015                     | 3500 Body ANE                                                 |
 | 20    | 3    | 3220815                     | 3550 Body ANE                                                 |
 | 20    | 4    | 3320615                     | 3600 Body ANE                                                 |
