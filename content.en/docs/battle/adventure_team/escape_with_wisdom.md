@@ -92,6 +92,7 @@ weight: 20
 | Job Advancement can learn new skills                                                                                                   | Correct                                    |
 | Jupiter is the closest planet to Earth                                                                                                 | Wrong                                      |
 | Kyrin is the Bowman Instructor                                                                                                         | Wrong                                      |
+| Kyrin is the Pirate Instructor                                                                                                         | Correct                                    |
 | Leafre is positioned the Minar Forest                                                                                                  | Correct                                    |
 | Lionel Messi is known for football                                                                                                     | Correct                                    |
 | Lith Harbour is the land and water transportation hub for Victoria Island                                                              | Correct                                    |
@@ -198,3 +199,6 @@ weight: 20
 | You can sneeze in your sleep                                                                                                           | Wrong                                      |
 | You have 3 free times to challenge Monster Park                                                                                        | Wrong                                      |
 | You will fail as long as one of the Attacking Monsters escapes                                                                         | Wrong                                      |
+| Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                                    |
+| An ostrich's eyes are heavier than its brain                                                                                           | Correct                                    |
+| Socrates lived in present-day Iran                                                                                                     | Wrong                                      |
