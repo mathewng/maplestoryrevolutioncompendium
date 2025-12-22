@@ -18,6 +18,7 @@ weight: 20
 | Alfie is 'afraid' of bugs                                                                                                              | Correct                                    |
 | America's first military school was West Point.                                                                                        | Correct                                    |
 | Amsterdam is the capital of Netherlands                                                                                                | Correct                                    |
+| An ostrich's eyes are heavier than its brain                                                                                           | Correct                                    |
 | Anemometer is used for measuring wind speed.                                                                                           | Correct                                    |
 | Basketball is the national game of the USA                                                                                             | Wrong                                      |
 | Being idle 'can' obtain idle earning                                                                                                   | Correct                                    |
@@ -73,6 +74,7 @@ weight: 20
 | Grendel the Really Old is into beautiful women                                                                                         | Wrong                                      |
 | Grendel the Really Old is into wine                                                                                                    | Correct                                    |
 | Hamburg is the capital of Germany                                                                                                      | Wrong                                      |
+| Helena is the Bowman Instructor                                                                                                        | Correct                                    |
 | Helena is the Warrior Instructor                                                                                                       | Wrong                                      |
 | Henesys is the home of bowman                                                                                                          | Correct                                    |
 | Henesys is the home of warriors                                                                                                        | Wrong                                      |
@@ -134,6 +136,7 @@ weight: 20
 | Shiki doesn't like to play games                                                                                                       | Wrong                                      |
 | Siri is the voice-controlled feature of Google's mobile app in the United States                                                       | Wrong                                      |
 | Snow White was the first Disney Princess                                                                                               | Correct                                    |
+| Socrates lived in present-day Iran                                                                                                     | Wrong                                      |
 | South Africa has one capital.                                                                                                          | Wrong                                      |
 | Spider has ten legs                                                                                                                    | Wrong                                      |
 | Stigmata Star-up needs to consume Potential stones                                                                                     | Wrong                                      |
@@ -185,13 +188,16 @@ weight: 20
 | There are 29 days in February every 5 years                                                                                            | Wrong                                      |
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
 | There are 40 dots on two dice                                                                                                          | Wrong                                      |
+| There are 60 states in the United states                                                                                               | Wrong                                      |
 | There are 7 colours in a rainbow                                                                                                       | Correct                                    |
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
 | There are only 30 days in May                                                                                                          | Wrong                                      |
 | Tiger Woods is known for golf                                                                                                          | Correct                                    |
 | Unclaimed Costume items " can not" be tired on in the Fashion House.                                                                   | Wrong                                      |
 | Unlocking the monster card slot requires levelling the character                                                                       | Correct                                    |
+| Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                                    |
 | Various rage skill upgrades require the 'same' skill manuals                                                                           | Wrong                                      |
+| Venezuela is home to the world's highest waterfall                                                                                     | Correct                                    |
 | Venus is the hottest planet in our solar system                                                                                        | Correct                                    |
 | When approaching the enemy, automatic skills must be activated manually.                                                               | Wrong                                      |
 | Winston Churchill was prime minister of Great Britain at the end of World War II                                                       | Correct                                    |
@@ -199,6 +205,3 @@ weight: 20
 | You can sneeze in your sleep                                                                                                           | Wrong                                      |
 | You have 3 free times to challenge Monster Park                                                                                        | Wrong                                      |
 | You will fail as long as one of the Attacking Monsters escapes                                                                         | Wrong                                      |
-| Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                                    |
-| An ostrich's eyes are heavier than its brain                                                                                           | Correct                                    |
-| Socrates lived in present-day Iran                                                                                                     | Wrong                                      |
