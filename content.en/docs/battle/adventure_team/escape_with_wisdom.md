@@ -105,6 +105,7 @@ weight: 20
 | Mai is not an adventurer guide                                                                                                         | Wrong                                      |
 | Mai is the adventurer guide                                                                                                            | Correct                                    |
 | Mango is the national fruit of India                                                                                                   | Correct                                    |
+| Manji is Chun Ji's older brother                                                                                                       | Correct                                    |
 | Maple Island is not where the adventure begins                                                                                         | Wrong                                      |
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                                      |
 | Michael Jordan is known for basketball                                                                                                 | Correct                                    |
@@ -125,6 +126,7 @@ weight: 20
 | No level limit to Job Advancement                                                                                                      | Wrong                                      |
 | Orchid's most beloved is Gelimer                                                                                                       | Wrong                                      |
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                                     | Wrong                                      |
+| Oxygen and hydrogen make up water                                                                                                      | Correct                                    |
 | Panda is the national animal of China                                                                                                  | Correct                                    |
 | Paris is the capital of France                                                                                                         | Correct                                    |
 | Perion is the home of warriors                                                                                                         | Correct                                    |
@@ -175,6 +177,7 @@ weight: 20
 | The Sahara Desert is the largest in the world                                                                                          | Correct                                    |
 | The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                                    |
 | The speed of light is faster than the speed of sound                                                                                   | Correct                                    |
+| The two longest rivers in the world are the Mississippi and the Nile                                                                   | Wrong                                      |
 | The UK is located in the northern hemisphere                                                                                           | Correct                                    |
 | The United States has the longest coastline in the world.                                                                              | Wrong                                      |
 | The United States is located in the southern hemisphere                                                                                | Wrong                                      |
