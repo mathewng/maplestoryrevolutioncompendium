@@ -35,6 +35,7 @@ weight: 20
 | China has the longest coastline in the world.                                                                                          | Wrong                                      |
 | Chun Ji is Manji's older brother                                                                                                       | Wrong                                      |
 | Cinderella's carriage turns into a potato                                                                                              | Wrong                                      |
+| Claudine is the leader of the rebel group                                                                                              | Correct                                    |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics                       | Correct                                    |
 | Consume "Abyss Pass" to challenge the Dark Abyss                                                                                       | Correct                                    |
 | Dances with Balrog is the Magician Instructor                                                                                          | Wrong                                      |
@@ -158,6 +159,7 @@ weight: 20
 | The capital of Russia is Saint Petersburg                                                                                              | Wrong                                      |
 | The earliest red-and-white machine game Super Mario was produced by Nintendo                                                           | Correct                                    |
 | The English abbreviation of the position of Chief Executive Officer is CFO.                                                            | Wrong                                      |
+| The famous cartoon character Mickey Mouse has 5 fingers                                                                                | Wrong                                      |
 | The first country in the world to use the subway is France                                                                             | Wrong                                      |
 | The first country in the world to use the subway is the United States                                                                  | Wrong                                      |
 | The founder of KFC is a Colonel.                                                                                                       | Correct                                    |
@@ -191,6 +193,7 @@ weight: 20
 | There are 29 days in February every 5 years                                                                                            | Wrong                                      |
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
 | There are 40 dots on two dice                                                                                                          | Wrong                                      |
+| There are 50 cards in a pack of cards (not incl. jokers)                                                                               | Wrong                                      |
 | There are 60 states in the United states                                                                                               | Wrong                                      |
 | There are 7 colours in a rainbow                                                                                                       | Correct                                    |
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
