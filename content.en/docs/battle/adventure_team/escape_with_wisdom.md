@@ -193,6 +193,7 @@ weight: 20
 | There are 29 days in February every 5 years                                                                                            | Wrong                                      |
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
 | There are 40 dots on two dice                                                                                                          | Wrong                                      |
+| There are 45 states in America                                                                                                         | Wrong                                      |
 | There are 50 cards in a pack of cards (not incl. jokers)                                                                               | Wrong                                      |
 | There are 60 states in the United states                                                                                               | Wrong                                      |
 | There are 7 colours in a rainbow                                                                                                       | Correct                                    |
@@ -210,4 +211,5 @@ weight: 20
 | World BOSS Battle start from 12:00-20:00 every day                                                                                     | Correct                                    |
 | You can sneeze in your sleep                                                                                                           | Wrong                                      |
 | You have 3 free times to challenge Monster Park                                                                                        | Wrong                                      |
+| You have have 100 free times of quick combat                                                                                           | Wrong                                      |
 | You will fail as long as one of the Attacking Monsters escapes                                                                         | Wrong                                      |
