@@ -21,6 +21,7 @@ weight: 20
 | An ostrich's eyes are heavier than its brain                                                                                           | Correct                                    |
 | Anemometer is used for measuring wind speed.                                                                                           | Correct                                    |
 | Basketball is the national game of the USA                                                                                             | Wrong                                      |
+| Battmond's body is a Crimson Balrog                                                                                                    | Correct                                    |
 | Being idle 'can' obtain idle earning                                                                                                   | Correct                                    |
 | Being idle 'can't' obtain idle earning                                                                                                 | Wrong                                      |
 | Boogie is an intelligence agent for the "Knights of Adventure"                                                                         | Correct                                    |
@@ -79,6 +80,7 @@ weight: 20
 | Helena is the Warrior Instructor                                                                                                       | Wrong                                      |
 | Henesys is the home of bowman                                                                                                          | Correct                                    |
 | Henesys is the home of warriors                                                                                                        | Wrong                                      |
+| Human skin regenerates every week                                                                                                      | Wrong                                      |
 | Hydrogen is the lightest gas                                                                                                           | Correct                                    |
 | If you fail a challenge or quitting halfway at the Mu Lung Dojo, "the amount of challenges will not be removed."                       | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia                              | Wrong                                      |
@@ -179,6 +181,7 @@ weight: 20
 | The Sahara Desert is the largest in the world                                                                                          | Correct                                    |
 | The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                                    |
 | The speed of light is faster than the speed of sound                                                                                   | Correct                                    |
+| The Sydney Opera House is a Sydney landmark building shaped like a sail                                                                | Correct                                    |
 | The two longest rivers in the world are the Mississippi and the Nile                                                                   | Wrong                                      |
 | The UK is located in the northern hemisphere                                                                                           | Correct                                    |
 | The United States has the longest coastline in the world.                                                                              | Wrong                                      |
@@ -207,6 +210,7 @@ weight: 20
 | Venezuela is home to the world's highest waterfall                                                                                     | Correct                                    |
 | Venus is the hottest planet in our solar system                                                                                        | Correct                                    |
 | When approaching the enemy, automatic skills must be activated manually.                                                               | Wrong                                      |
+| When totems are dropped, they will create basic attribute at random within the area                                                    | Wrong                                      |
 | Winston Churchill was prime minister of Great Britain at the end of World War II                                                       | Correct                                    |
 | World BOSS Battle start from 12:00-20:00 every day                                                                                     | Correct                                    |
 | You can sneeze in your sleep                                                                                                           | Wrong                                      |
