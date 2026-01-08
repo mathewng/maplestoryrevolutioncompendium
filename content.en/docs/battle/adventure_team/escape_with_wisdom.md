@@ -52,6 +52,7 @@ weight: 20
 | Dusk Demesne 'allows' One-On-One Challenge                                                                                             | Correct                                    |
 | Each NBA team has 28 players                                                                                                           | Wrong                                      |
 | Each quick combat can earn you up to 200 minutes of idle earning                                                                       | Correct                                    |
+| Elephant is the second tallest animal in the world                                                                                     | Correct                                    |
 | Endless Hunting requires a team to take on the challenge                                                                               | Wrong                                      |
 | Ephenia is the leader of the Fairy                                                                                                     | Correct                                    |
 | Ephenia is the leader of the Snails                                                                                                    | Wrong                                      |
@@ -203,7 +204,7 @@ weight: 20
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
 | There are only 30 days in May                                                                                                          | Wrong                                      |
 | Tiger Woods is known for golf                                                                                                          | Correct                                    |
-| Unclaimed Costume items " can not" be tired on in the Fashion House.                                                                   | Wrong                                      |
+| Unclaimed Costume items "can not" be tired on in the Fashion House.                                                                    | Wrong                                      |
 | Unlocking the monster card slot requires levelling the character                                                                       | Correct                                    |
 | Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                                    |
 | Various rage skill upgrades require the 'same' skill manuals                                                                           | Wrong                                      |
