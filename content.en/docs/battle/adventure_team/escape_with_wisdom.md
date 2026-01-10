@@ -20,7 +20,7 @@ weight: 20
 | Amsterdam is the capital of Netherlands                                                                                                | Correct                                    |
 | An ostrich's eyes are heavier than its brain                                                                                           | Correct                                    |
 | Anemometer is used for measuring wind speed.                                                                                           | Correct                                    |
-| Basketball is the national game of the USA                                                                                             | Wrong                                      |
+| Basketball is the national game of the USA                                                                                             | Correct                                    |
 | Battmond's body is a Crimson Balrog                                                                                                    | Correct                                    |
 | Being idle 'can' obtain idle earning                                                                                                   | Correct                                    |
 | Being idle 'can't' obtain idle earning                                                                                                 | Wrong                                      |
@@ -140,6 +140,7 @@ weight: 20
 | Residents of Ludibrium are all toys                                                                                                    | Wrong                                      |
 | Rune Wings can be dressed in the Fashion House                                                                                         | Correct                                    |
 | Shiki doesn't like to play games                                                                                                       | Wrong                                      |
+| Shiki's dream is to become a game guru                                                                                                 | Correct                                    |
 | Siri is the voice-controlled feature of Google's mobile app in the United States                                                       | Wrong                                      |
 | Snow White was the first Disney Princess                                                                                               | Correct                                    |
 | Socrates lived in present-day Iran                                                                                                     | Wrong                                      |
@@ -204,7 +205,7 @@ weight: 20
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
 | There are only 30 days in May                                                                                                          | Wrong                                      |
 | Tiger Woods is known for golf                                                                                                          | Correct                                    |
-| Unclaimed Costume items "can not" be tired on in the Fashion House.                                                                    | Wrong                                      |
+| Unclaimed Costume items "can not" be tried on in the Fashion House.                                                                    | Wrong                                      |
 | Unlocking the monster card slot requires levelling the character                                                                       | Correct                                    |
 | Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                                    |
 | Various rage skill upgrades require the 'same' skill manuals                                                                           | Wrong                                      |
