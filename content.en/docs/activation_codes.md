@@ -28,6 +28,7 @@ These codes are released through its official [Facebook](https://www.facebook.co
 # List of Activation Codes
 | Publish date      | Activation code  |
 | ----------------- | ---------------- |
+| 12 Jan 2026       | DECNEWW25        |
 | 5 Jan 2026        | DECPERRY25       |
 | 1 Jan 2026        | NewYear2026      |
 | 29 Dec 2025       | DECCOCOO25       |
