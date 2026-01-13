@@ -39,6 +39,7 @@ weight: 20
 | Claudine is the leader of the rebel group                                                                                              | Correct                                    |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics                       | Correct                                    |
 | Consume "Abyss Pass" to challenge the Dark Abyss                                                                                       | Correct                                    |
+| Consume tinder for wing nirvana                                                                                                        | Correct                                    |
 | Dances with Balrog is the Magician Instructor                                                                                          | Wrong                                      |
 | Dances with Balrog is the Warrior Instructor                                                                                           | Correct                                    |
 | Dark Lord is the leader of the Flying Flower                                                                                           | Wrong                                      |
@@ -94,6 +95,7 @@ weight: 20
 | In the Land of Chaos, each cycle lasts two days                                                                                        | Correct                                    |
 | In the Victoria Island anomaly of Dimension Trail (Plot), Joey and Faie are twin sisters                                               | Correct                                    |
 | In the Victoria Island anomaly of Dimension Trail (Plot), Joey and the Ephenia are twin sisters                                        | Wrong                                      |
+| India has 30 states.                                                                                                                   | Wrong                                      |
 | Infants have more bones than adults.                                                                                                   | Correct                                    |
 | Job Advancement can learn new skills                                                                                                   | Correct                                    |
 | Jupiter is the closest planet to Earth                                                                                                 | Wrong                                      |
@@ -161,6 +163,7 @@ weight: 20
 | The capital of of the UK is Manchester                                                                                                 | Wrong                                      |
 | The capital of Rome is Milan                                                                                                           | Wrong                                      |
 | The capital of Russia is Saint Petersburg                                                                                              | Wrong                                      |
+| The city of Los Angeles is also known as the Big Apple                                                                                 | Wrong                                      |
 | The earliest red-and-white machine game Super Mario was produced by Nintendo                                                           | Correct                                    |
 | The English abbreviation of the position of Chief Executive Officer is CFO.                                                            | Wrong                                      |
 | The famous cartoon character Mickey Mouse has 5 fingers                                                                                | Wrong                                      |
@@ -205,6 +208,7 @@ weight: 20
 | There are 8 colours in a rainbow                                                                                                       | Wrong                                      |
 | There are only 30 days in May                                                                                                          | Wrong                                      |
 | Tiger Woods is known for golf                                                                                                          | Correct                                    |
+| Toronto is the capital of Canada                                                                                                       | Wrong                                      |
 | Unclaimed Costume items "can not" be tried on in the Fashion House.                                                                    | Wrong                                      |
 | Unlocking the monster card slot requires levelling the character                                                                       | Correct                                    |
 | Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                                    |
