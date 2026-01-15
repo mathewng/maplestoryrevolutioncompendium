@@ -158,6 +158,7 @@ weight: 20
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                                      | Wrong                                      |
 | The black box in a plane is black                                                                                                      | Wrong                                      |
 | The Cactus family can be found in Lith Harbor                                                                                          | Wrong                                      |
+| The capital of Brazil is Brasilia                                                                                                      | Correct                                    |
 | The capital of Germany is Berlin                                                                                                       | Correct                                    |
 | The capital of Japan is Osaka                                                                                                          | Wrong                                      |
 | The capital of of the UK is Manchester                                                                                                 | Wrong                                      |
@@ -200,6 +201,7 @@ weight: 20
 | There are 26 letters in the English alphabet                                                                                           | Correct                                    |
 | There are 29 days in February every 5 years                                                                                            | Wrong                                      |
 | There are 30 NFL teams                                                                                                                 | Wrong                                      |
+| There are 30 teams in the NBA                                                                                                          | Correct                                    |
 | There are 40 dots on two dice                                                                                                          | Wrong                                      |
 | There are 45 states in America                                                                                                         | Wrong                                      |
 | There are 50 cards in a pack of cards (not incl. jokers)                                                                               | Wrong                                      |
