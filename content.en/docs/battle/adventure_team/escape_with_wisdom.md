@@ -113,6 +113,7 @@ weight: 20
 | Mango is the national fruit of India                                                                                                   | Correct                                    |
 | Manji is Chun Ji's older brother                                                                                                       | Correct                                    |
 | Maple Island is not where the adventure begins                                                                                         | Wrong                                      |
+| Maple Island is where the adventure begins                                                                                             | Correct                                    |
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                                      |
 | Michael Jordan is known for basketball                                                                                                 | Correct                                    |
 | Michael Jordan totally got 7 Champions in his career                                                                                   | Wrong                                      |
@@ -128,8 +129,10 @@ weight: 20
 | Neinhart’s position is ‘Warrior’                                                                                                       | Wrong                                      |
 | New York City is also referred to The Big Apple                                                                                        | Correct                                    |
 | New York City is the largest city in the United states                                                                                 | Correct                                    |
+| Newton came up with theory of E=MC2                                                                                                    | Wrong                                      |
 | No level limit to Job Advancement                                                                                                      | Wrong                                      |
 | No level limit to Job Advancement                                                                                                      | Wrong                                      |
+| Objects that can absorb all the seven colors of the sun appear white                                                                   | Wrong                                      |
 | Orchid's most beloved is Gelimer                                                                                                       | Wrong                                      |
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                                     | Wrong                                      |
 | Oxygen and hydrogen make up water                                                                                                      | Correct                                    |
@@ -222,6 +225,7 @@ weight: 20
 | Winston Churchill was prime minister of Great Britain at the end of World War II                                                       | Correct                                    |
 | World BOSS Battle start from 12:00-20:00 every day                                                                                     | Correct                                    |
 | You can sneeze in your sleep                                                                                                           | Wrong                                      |
+| You have 2 free times to challenge the Attacking Monsters                                                                              | Correct                                    |
 | You have 3 free times to challenge Monster Park                                                                                        | Wrong                                      |
 | You have have 100 free times of quick combat                                                                                           | Wrong                                      |
 | You will fail as long as one of the Attacking Monsters escapes                                                                         | Wrong                                      |
