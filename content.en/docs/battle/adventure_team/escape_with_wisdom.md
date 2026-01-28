@@ -62,13 +62,14 @@ weight: 20
 | Even though dragonflies have six legs, they cannot walk                                                                                | Correct                                    |
 | Every day, Lucid's Dream only offers three challenges                                                                                  | Correct                                    |
 | Every day, the Endless Hunting offers one free challenge                                                                               | Correct                                    |
-| Everyday throughte the Trial of Alliance, the last challenge point is recorded in the statistics                                       | Wrong                                      |
+| Everyday throughout the Trial of Alliance, the last challenge point is recorded in the statistics                                      | Wrong                                      |
 | Excess furniture cannot be dismantled                                                                                                  | Wrong                                      |
 | Failure to challenge the Dark Abyss or quitting halfway will consume the "Abyss Pass"                                                  | Wrong                                      |
 | Fish cannot blink                                                                                                                      | Correct                                    |
 | Fortune cookies were invented in China                                                                                                 | Wrong                                      |
 | From Monday through Saturday is World Boss Crusade time                                                                                | Wrong                                      |
 | Giraffe is the tallest animal in the world                                                                                             | Correct                                    |
+| Goblins live in the Ellinia                                                                                                            | Correct                                    |
 | Goblins live in the Perion                                                                                                             | Wrong                                      |
 | Gold Beach and Gold Beach are two different places                                                                                     | Wrong                                      |
 | Gold Beach is rich in various kinds of slime                                                                                           | Correct                                    |
@@ -99,6 +100,7 @@ weight: 20
 | Infants have more bones than adults.                                                                                                   | Correct                                    |
 | Job Advancement can learn new skills                                                                                                   | Correct                                    |
 | Jupiter is the closest planet to Earth                                                                                                 | Wrong                                      |
+| Kerning City is the territory of the Thieves                                                                                           | Correct                                    |
 | Kyrin is the Bowman Instructor                                                                                                         | Wrong                                      |
 | Kyrin is the Pirate Instructor                                                                                                         | Correct                                    |
 | Leafre is positioned the Minar Forest                                                                                                  | Correct                                    |
@@ -163,6 +165,7 @@ weight: 20
 | The Cactus family can be found in Lith Harbor                                                                                          | Wrong                                      |
 | The capital of Brazil is Brasilia                                                                                                      | Correct                                    |
 | The capital of Germany is Berlin                                                                                                       | Correct                                    |
+| The capital of Italy is Milan                                                                                                          | Wrong                                      |
 | The capital of Japan is Osaka                                                                                                          | Wrong                                      |
 | The capital of of the UK is Manchester                                                                                                 | Wrong                                      |
 | The capital of Rome is Milan                                                                                                           | Wrong                                      |
