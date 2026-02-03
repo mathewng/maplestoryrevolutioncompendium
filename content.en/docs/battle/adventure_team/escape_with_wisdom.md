@@ -106,6 +106,7 @@ weight: 20
 | Leafre is positioned the Minar Forest                                                                                                  | Correct                                    |
 | Lionel Messi is known for football                                                                                                     | Correct                                    |
 | Lith Harbour is the land and water transportation hub for Victoria Island                                                              | Correct                                    |
+| Lobster blood is red                                                                                                                   | Wrong                                      |
 | Lotus' most beloved is Orchid                                                                                                          | Correct                                    |
 | Madonna's real name is Madonna                                                                                                         | Correct                                    |
 | Magellan was the first person to circumnavigate the Earth.                                                                             | Correct                                    |
