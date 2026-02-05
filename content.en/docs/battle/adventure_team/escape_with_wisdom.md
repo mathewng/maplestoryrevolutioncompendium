@@ -86,7 +86,7 @@ weight: 20
 | Human skin regenerates every week                                                                                                      | Wrong                                      |
 | Hydrogen is the lightest gas                                                                                                           | Correct                                    |
 | If you fail a challenge or quitting halfway at the Mu Lung Dojo, "the amount of challenges will not be removed."                       | Wrong                                      |
-| In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Euphenia                              | Wrong                                      |
+| In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Ephenia                               | Wrong                                      |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Crimson Balrog Battmond                               | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding                     | Wrong                                      |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl finally resolved the misunderstanding                   | Correct                                    |
