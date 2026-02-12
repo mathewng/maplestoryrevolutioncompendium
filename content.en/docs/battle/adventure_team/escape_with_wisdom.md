@@ -53,6 +53,7 @@ weight: 20
 | Dusk Demesne 'allows' One-On-One Challenge                                                                                             | Correct                                    |
 | Each NBA team has 28 players                                                                                                           | Wrong                                      |
 | Each quick combat can earn you up to 200 minutes of idle earning                                                                       | Correct                                    |
+| Ears are essential for imparting balance to the human body                                                                             | Correct                                    |
 | Elephant is the second tallest animal in the world                                                                                     | Correct                                    |
 | Endless Hunting requires a team to take on the challenge                                                                               | Wrong                                      |
 | Ephenia is the leader of the Fairy                                                                                                     | Correct                                    |
@@ -142,6 +143,7 @@ weight: 20
 | Panda is the national animal of China                                                                                                  | Correct                                    |
 | Paris is the capital of France                                                                                                         | Correct                                    |
 | Perion is the home of warriors                                                                                                         | Correct                                    |
+| Pyramid of the Sun located in Mexico                                                                                                   | Correct                                    |
 | Reading the Adventure Book will help you comprehend the Maple Island better.                                                           | Correct                                    |
 | Residents in Leafre are goblins                                                                                                        | Wrong                                      |
 | Residents in the Ludibrium do not age                                                                                                  | Correct                                    |
