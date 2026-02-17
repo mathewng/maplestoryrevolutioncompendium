@@ -20,6 +20,7 @@ weight: 20
 | Amsterdam is the capital of Netherlands                                                                                                | Correct                                    |
 | An ostrich's eyes are heavier than its brain                                                                                           | Correct                                    |
 | Anemometer is used for measuring wind speed.                                                                                           | Correct                                    |
+| Auto skill upgrades cannot surpass the character's current level                                                                       | Correct                                    |
 | Basketball is the national game of the USA                                                                                             | Correct                                    |
 | Battmond's body is a Crimson Balrog                                                                                                    | Correct                                    |
 | Being idle 'can' obtain idle earning                                                                                                   | Correct                                    |
@@ -58,6 +59,7 @@ weight: 20
 | Endless Hunting requires a team to take on the challenge                                                                               | Wrong                                      |
 | Ephenia is the leader of the Fairy                                                                                                     | Correct                                    |
 | Ephenia is the leader of the Snails                                                                                                    | Wrong                                      |
+| Equipment star-up primarily raises the percentage of basic attributes of equipment                                                     | Correct                                    |
 | Equipment star-up resources can be obtained from "Adventurer Training Field"                                                           | Wrong                                      |
 | Equipping different wings will change battle power                                                                                     | Wrong                                      |
 | Even though dragonflies have six legs, they cannot walk                                                                                | Correct                                    |
@@ -175,6 +177,7 @@ weight: 20
 | The capital of Russia is Saint Petersburg                                                                                              | Wrong                                      |
 | The city of Los Angeles is also known as the Big Apple                                                                                 | Wrong                                      |
 | The earliest red-and-white machine game Super Mario was produced by Nintendo                                                           | Correct                                    |
+| The Earth is a sphere                                                                                                                  | Correct                                    |
 | The English abbreviation of the position of Chief Executive Officer is CFO.                                                            | Wrong                                      |
 | The famous cartoon character Mickey Mouse has 5 fingers                                                                                | Wrong                                      |
 | The first country in the world to use the subway is France                                                                             | Wrong                                      |
