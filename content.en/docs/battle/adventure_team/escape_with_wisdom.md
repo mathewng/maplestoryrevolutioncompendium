@@ -8,6 +8,7 @@ weight: 20
 | Question                                                                                                                               | Answer                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | A baseball team has 15 players                                                                                                         | Wrong                                      |
+| Abraham Lincoln was the first President of the United States                                                                           | Wrong                                      |
 | Activating pet maps can increase battlepower.                                                                                          | Correct                                    |
 | Adults have a total of 34 teeth.                                                                                                       | Wrong                                      |
 | Adventure Book can be obtained through being presented from friends.                                                                   | Wrong                                      |
@@ -18,6 +19,7 @@ weight: 20
 | Alfie is 'afraid' of bugs                                                                                                              | Correct                                    |
 | America's first military school was West Point.                                                                                        | Correct                                    |
 | Amsterdam is the capital of Netherlands                                                                                                | Correct                                    |
+| An octopus has seven hearts.                                                                                                           | Wrong                                      |
 | An ostrich's eyes are heavier than its brain                                                                                           | Correct                                    |
 | Anemometer is used for measuring wind speed.                                                                                           | Correct                                    |
 | Auto skill upgrades cannot surpass the character's current level                                                                       | Correct                                    |
