@@ -13,6 +13,7 @@ weight: 20
 | Adults have a total of 34 teeth.                                                                                                       | Wrong                                      |
 | Adventure Book can be obtained through being presented from friends.                                                                   | Wrong                                      |
 | After activating the pet's bond effect, the character will get the pet's bond attribute                                                | Wrong                                      |
+| After bond effects are activated, bond attributes can only be obtained when carrying corresponding pets                                | Correct                                    |
 | Air conditioning was invented by the Americans                                                                                         | Correct                                    |
 | Air conditioning was invented by the French                                                                                            | Wrong                                      |
 | Alexander Graham Bell invented the telephone                                                                                           | Correct                                    |
