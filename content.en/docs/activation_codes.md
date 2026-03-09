@@ -28,6 +28,7 @@ These codes are released through its official [Facebook](https://www.facebook.co
 # List of Activation Codes
 | Publish date      | Activation code  |
 | ----------------- | ---------------- |
+| 9 Mar 2026        | MARPERRY26       |
 | 2 Mar 2026        | MARCOCOO26       |
 | 23 Feb 2026       | JANGREAT26       |
 | 17 Feb 2026       | HappyNewYear2026 |
