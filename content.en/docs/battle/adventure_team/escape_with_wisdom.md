@@ -8,7 +8,9 @@ weight: 20
 | Question                                                                                                                               | Answer                         |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | A baseball team has 15 players                                                                                                         | Wrong                          |
+| A cube has 12 straight edges                                                                                                           | Correct                        |
 | Abraham Lincoln was the first President of the United States                                                                           | Wrong                          |
+| Activating pet illustration needs to consume coins                                                                                     | Wrong                          |
 | Activating pet maps can increase battlepower.                                                                                          | Correct                        |
 | Adults have a total of 34 teeth.                                                                                                       | Wrong                          |
 | Adventure Book can be obtained through being presented from friends.                                                                   | Wrong                          |
@@ -30,6 +32,7 @@ weight: 20
 | Being idle 'can' obtain idle earning                                                                                                   | Correct                        |
 | Being idle 'can't' obtain idle earning                                                                                                 | Wrong                          |
 | Boogie is an intelligence agent for the "Knights of Adventure"                                                                         | Correct                        |
+| Brisbane is Australia's largest city                                                                                                   | Wrong                          |
 | Buddha was a real person                                                                                                               | Correct                        |
 | Bueno Aires is the capital of Argentina                                                                                                | Correct                        |
 | Canada has the longest coastline in the world.                                                                                         | Correct                        |
