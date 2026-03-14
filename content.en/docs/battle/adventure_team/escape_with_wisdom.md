@@ -17,7 +17,6 @@ weight: 20
 | After activating the pet's bond effect, the character will get the pet's bond attribute                                                | Wrong                          |
 | After bond effects are activated, bond attributes can only be obtained when carrying corresponding pets                                | Correct                        |
 | Air conditioning was invented by the Americans                                                                                         | Correct                        |
-| Air conditioning was invented by the French                                                                                            | Wrong                          |
 | Alexander Graham Bell invented the telephone                                                                                           | Correct                        |
 | Alfie is 'afraid' of bugs                                                                                                              | Correct                        |
 | America's first military school was West Point.                                                                                        | Correct                        |
@@ -25,12 +24,12 @@ weight: 20
 | An octopus has seven hearts.                                                                                                           | Wrong                          |
 | An ostrich's eyes are heavier than its brain                                                                                           | Correct                        |
 | Anemometer is used for measuring wind speed.                                                                                           | Correct                        |
+| As the saying goes, cats have 10 lives                                                                                                 | Wrong                          |
 | Australia is located in the northern hemisphere                                                                                        | Wrong                          |
 | Auto skill upgrades cannot surpass the character's current level                                                                       | Correct                        |
 | Basketball is the national game of the USA                                                                                             | Correct                        |
 | Battmond's body is a Crimson Balrog                                                                                                    | Correct                        |
 | Being idle 'can' obtain idle earning                                                                                                   | Correct                        |
-| Being idle 'can't' obtain idle earning                                                                                                 | Wrong                          |
 | Boogie is an intelligence agent for the "Knights of Adventure"                                                                         | Correct                        |
 | Brisbane is Australia's largest city                                                                                                   | Wrong                          |
 | Buddha was a real person                                                                                                               | Correct                        |
@@ -48,7 +47,6 @@ weight: 20
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics                       | Correct                        |
 | Consume "Abyss Pass" to challenge the Dark Abyss                                                                                       | Correct                        |
 | Consume tinder for wing nirvana                                                                                                        | Correct                        |
-| Dances with Balrog is the Magician Instructor                                                                                          | Wrong                          |
 | Dances with Balrog is the Warrior Instructor                                                                                           | Correct                        |
 | Dark Lord is the leader of the Flying Flower                                                                                           | Wrong                          |
 | Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                                                  | Wrong                          |
@@ -65,7 +63,6 @@ weight: 20
 | Elephant is the second tallest animal in the world                                                                                     | Correct                        |
 | Endless Hunting requires a team to take on the challenge                                                                               | Wrong                          |
 | Ephenia is the leader of the Fairy                                                                                                     | Correct                        |
-| Ephenia is the leader of the Snails                                                                                                    | Wrong                          |
 | Equipment star-up primarily raises the percentage of basic attributes of equipment                                                     | Correct                        |
 | Equipment star-up resources can be obtained from "Adventurer Training Field"                                                           | Wrong                          |
 | Equipping different wings will change battle power                                                                                     | Wrong                          |
@@ -80,25 +77,20 @@ weight: 20
 | From Monday through Saturday is World Boss Crusade time                                                                                | Wrong                          |
 | Giraffe is the tallest animal in the world                                                                                             | Correct                        |
 | Goblins live in the Ellinia                                                                                                            | Correct                        |
-| Goblins live in the Perion                                                                                                             | Wrong                          |
 | Gold Beach and Gold Beach are two different places                                                                                     | Wrong                          |
 | Gold Beach is rich in various kinds of slime                                                                                           | Correct                        |
 | Goldfish have a two second memory                                                                                                      | Wrong                          |
 | Gravity keeps us grounded on Earth                                                                                                     | Correct                        |
 | Greece hosted the first Olympic Games                                                                                                  | Correct                        |
-| Grendel the Really Old is into beautiful women                                                                                         | Wrong                          |
 | Grendel the Really Old is into wine                                                                                                    | Correct                        |
 | Hamburg is the capital of Germany                                                                                                      | Wrong                          |
 | Helena is the Bowman Instructor                                                                                                        | Correct                        |
-| Helena is the Warrior Instructor                                                                                                       | Wrong                          |
 | Henesys is the home of bowman                                                                                                          | Correct                        |
-| Henesys is the home of warriors                                                                                                        | Wrong                          |
 | Human skin regenerates every week                                                                                                      | Wrong                          |
 | Hydrogen is the lightest gas                                                                                                           | Correct                        |
 | If you fail a challenge or quitting halfway at the Mu Lung Dojo, "the amount of challenges will not be removed."                       | Wrong                          |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Ephenia                               | Wrong                          |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Crimson Balrog Battmond                               | Wrong                          |
-| In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl didn't resolve the misunderstanding                     | Wrong                          |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl finally resolved the misunderstanding                   | Correct                        |
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                                           | Correct                        |
 | In the Expedition Forces, touching Vellum's Venom stuns                                                                                | Wrong                          |
@@ -125,7 +117,6 @@ weight: 20
 | Mai is the adventurer guide                                                                                                            | Correct                        |
 | Mango is the national fruit of India                                                                                                   | Correct                        |
 | Manji is Chun Ji's older brother                                                                                                       | Correct                        |
-| Maple Island is not where the adventure begins                                                                                         | Wrong                          |
 | Maple Island is where the adventure begins                                                                                             | Correct                        |
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                          |
 | Michael Jordan is known for basketball                                                                                                 | Correct                        |
@@ -139,11 +130,9 @@ weight: 20
 | Neil Armstrong said the famous words: "That's one small step for man, one giant leap for mankind".                                     | Correct                        |
 | Neinhart is the Queen of Maple World                                                                                                   | Wrong                          |
 | Neinhart’s position is ‘Counselor’                                                                                                     | Correct                        |
-| Neinhart’s position is ‘Warrior’                                                                                                       | Wrong                          |
 | New York City is also referred to The Big Apple                                                                                        | Correct                        |
 | New York City is the largest city in the United states                                                                                 | Correct                        |
 | Newton came up with theory of E=MC2                                                                                                    | Wrong                          |
-| No level limit to Job Advancement                                                                                                      | Wrong                          |
 | No level limit to Job Advancement                                                                                                      | Wrong                          |
 | Objects that can absorb all the seven colors of the sun appear white                                                                   | Wrong                          |
 | Orchid's most beloved is Gelimer                                                                                                       | Wrong                          |
@@ -202,6 +191,7 @@ weight: 20
 | The Nihal Desert is brimmed of cacti                                                                                                   | Correct                        |
 | The Nihal Desert is home to all kinds of fresh seafood                                                                                 | Wrong                          |
 | The number of 'Dusk Keys' you have in Dusk Demesne will be reset to 1 the following day, regardless of how many you had the day before | Wrong                          |
+| The outermost of the eight planets in the solar system is Saturn                                                                       | Wrong                          |
 | The river Seine in Paris is longer than the river Thames in London                                                                     | Correct                        |
 | The Sahara Desert is the largest in the world                                                                                          | Correct                        |
 | The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                        |
@@ -214,8 +204,6 @@ weight: 20
 | The World BOSS Auction begins at 20:00                                                                                                 | Wrong                          |
 | The World BOSS Auction ends at 22:00                                                                                                   | Correct                        |
 | The World Cup is held every four years.                                                                                                | Correct                        |
-| The World Cup is held every six years.                                                                                                 | Wrong                          |
-| The World Cup is held every three years.                                                                                               | Wrong                          |
 | There are 10 players are there on a baseball team                                                                                      | Wrong                          |
 | There are 26 letters in the English alphabet                                                                                           | Correct                        |
 | There are 29 days in February every 5 years                                                                                            | Wrong                          |
@@ -226,14 +214,12 @@ weight: 20
 | There are 50 cards in a pack of cards (not incl. jokers)                                                                               | Wrong                          |
 | There are 60 states in the United states                                                                                               | Wrong                          |
 | There are 7 colours in a rainbow                                                                                                       | Correct                        |
-| There are 8 colours in a rainbow                                                                                                       | Wrong                          |
 | There are only 30 days in May                                                                                                          | Wrong                          |
 | Tiger Woods is known for golf                                                                                                          | Correct                        |
 | Toronto is the capital of Canada                                                                                                       | Wrong                          |
 | Unclaimed Costume items "can not" be tried on in the Fashion House.                                                                    | Wrong                          |
 | Unlocking the monster card slot requires levelling the character                                                                       | Correct                        |
 | Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                        |
-| Various rage skill upgrades require the 'same' skill manuals                                                                           | Wrong                          |
 | Venezuela is home to the world's highest waterfall                                                                                     | Correct                        |
 | Venus is the hottest planet in our solar system                                                                                        | Correct                        |
 | When approaching the enemy, automatic skills must be activated manually.                                                               | Wrong                          |
