@@ -52,7 +52,6 @@ weight: 20
 | Dimension Trail (Exploration) Exploration progress is not saved when quitting halfway                                                  | Wrong                          |
 | Dimension Trail (Plot) can be accessed multiple times.                                                                                 | Wrong                          |
 | Disk Demesne allows each team member to contribute four openable chests                                                                | Correct                        |
-| Don Hwang is game guru                                                                                                                 | Wrong                          |
 | Duck is known to have waterproof feathers                                                                                              | Correct                        |
 | During equipment upgrade the subtituted equipment does not inherit the enhancement level                                               | Wrong                          |
 | During the Great Arena battle, HP vials "may" be utilised                                                                              | Wrong                          |
@@ -87,6 +86,7 @@ weight: 20
 | Helena is the Bowman Instructor                                                                                                        | Correct                        |
 | Henesys is the home of bowman                                                                                                          | Correct                        |
 | Human skin regenerates every week                                                                                                      | Wrong                          |
+| Humans have five senses - sight, smell, hearing, taste and touch                                                                       | Correct                        |
 | Hydrogen is the lightest gas                                                                                                           | Correct                        |
 | If you fail a challenge or quitting halfway at the Mu Lung Dojo, "the amount of challenges will not be removed."                       | Wrong                          |
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Butterfly Queen Ephenia                               | Wrong                          |
