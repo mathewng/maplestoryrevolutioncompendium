@@ -27,7 +27,8 @@ weight: 20
 | As the saying goes, cats have 10 lives                                                                                                 | Wrong                          |
 | Australia is located in the northern hemisphere                                                                                        | Wrong                          |
 | Auto skill upgrades cannot surpass the character's current level                                                                       | Correct                        |
-| Basketball is the national game of the USA                                                                                             | Correct                        |
+| Baseball is the national game of the USA                                                                                               | Correct                        |
+| Basketball is the national game of the USA                                                                                             | Wrong                          |
 | Battmond's body is a Crimson Balrog                                                                                                    | Correct                        |
 | Being idle 'can' obtain idle earning                                                                                                   | Correct                        |
 | Boogie is an intelligence agent for the "Knights of Adventure"                                                                         | Correct                        |
@@ -41,6 +42,7 @@ weight: 20
 | Cheesecake first originated in Greece                                                                                                  | Correct                        |
 | Chicago is the largest city in the United States                                                                                       | Wrong                          |
 | China has the longest coastline in the world.                                                                                          | Wrong                          |
+| China is the largest country in the world based on the area                                                                            | Wrong                          |
 | Chun Ji is Manji's older brother                                                                                                       | Wrong                          |
 | Cinderella's carriage turns into a potato                                                                                              | Wrong                          |
 | Claudine is the leader of the rebel group                                                                                              | Correct                        |
@@ -67,6 +69,7 @@ weight: 20
 | Equipping different wings will change battle power                                                                                     | Wrong                          |
 | Even though dragonflies have six legs, they cannot walk                                                                                | Correct                        |
 | Every day, Lucid's Dream only offers three challenges                                                                                  | Correct                        |
+| Every day, the Adventurer Training Field offers two free challenges.                                                                   | Correct                        |
 | Every day, the Endless Hunting offers one free challenge                                                                               | Correct                        |
 | Everyday throughout the Trial of Alliance, the last challenge point is recorded in the statistics                                      | Wrong                          |
 | Excess furniture cannot be dismantled                                                                                                  | Wrong                          |
@@ -219,6 +222,7 @@ weight: 20
 | Toronto is the capital of Canada                                                                                                       | Wrong                          |
 | Unclaimed Costume items "can not" be tried on in the Fashion House.                                                                    | Wrong                          |
 | Unlocking the monster card slot requires levelling the character                                                                       | Correct                        |
+| Vanilla is the world's most expensive spice                                                                                            | Wrong                          |
 | Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                        |
 | Venezuela is home to the world's highest waterfall                                                                                     | Correct                        |
 | Venus is the hottest planet in our solar system                                                                                        | Correct                        |
