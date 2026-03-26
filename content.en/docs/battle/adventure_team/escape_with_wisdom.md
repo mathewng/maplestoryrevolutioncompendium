@@ -122,6 +122,7 @@ weight: 20
 | Manji is Chun Ji's older brother                                                                                                       | Correct                        |
 | Maple Island is where the adventure begins                                                                                             | Correct                        |
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                          |
+| Michael Collins was the first man on the moon                                                                                          | Wrong                          |
 | Michael Jordan is known for basketball                                                                                                 | Correct                        |
 | Michael Jordan totally got 7 Champions in his career                                                                                   | Wrong                          |
 | Monaco is the smallest country in the world                                                                                            | Wrong                          |
@@ -219,6 +220,7 @@ weight: 20
 | There are 7 colours in a rainbow                                                                                                       | Correct                        |
 | There are only 30 days in May                                                                                                          | Wrong                          |
 | Tiger Woods is known for golf                                                                                                          | Correct                        |
+| Timer is looking for his lost "parts"                                                                                                  | Correct                        |
 | Toronto is the capital of Canada                                                                                                       | Wrong                          |
 | Unclaimed Costume items "can not" be tried on in the Fashion House.                                                                    | Wrong                          |
 | Unlocking the monster card slot requires levelling the character                                                                       | Correct                        |
