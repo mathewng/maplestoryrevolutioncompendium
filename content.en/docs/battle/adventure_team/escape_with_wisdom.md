@@ -86,6 +86,7 @@ weight: 20
 | Greece hosted the first Olympic Games                                                                                                  | Correct                        |
 | Grendel the Really Old is into wine                                                                                                    | Correct                        |
 | Hamburg is the capital of Germany                                                                                                      | Wrong                          |
+| Hawaii is the world's largest volcano located | Correct|
 | Helena is the Bowman Instructor                                                                                                        | Correct                        |
 | Henesys is the home of bowman                                                                                                          | Correct                        |
 | Human skin regenerates every week                                                                                                      | Wrong                          |
