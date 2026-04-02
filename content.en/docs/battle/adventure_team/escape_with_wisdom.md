@@ -86,7 +86,7 @@ weight: 20
 | Greece hosted the first Olympic Games                                                                                                  | Correct                        |
 | Grendel the Really Old is into wine                                                                                                    | Correct                        |
 | Hamburg is the capital of Germany                                                                                                      | Wrong                          |
-| Hawaii is the world's largest volcano located | Correct|
+| Hawaii is the world's largest volcano located                                                                                          | Correct                        |
 | Helena is the Bowman Instructor                                                                                                        | Correct                        |
 | Henesys is the home of bowman                                                                                                          | Correct                        |
 | Human skin regenerates every week                                                                                                      | Wrong                          |
@@ -97,6 +97,7 @@ weight: 20
 | In the Dimension Trail (Plot), the enemy leader of the Maple Island's anomaly is Crimson Balrog Battmond                               | Wrong                          |
 | In the Edelstein anomaly of Dimension Trail (Plot) Dark Lord Zhen and Lady Syl finally resolved the misunderstanding                   | Correct                        |
 | In the Edelstein anomaly of Dimension Trail (Plot) Lotus dies to save Orchid                                                           | Correct                        |
+| In the Expedition Forces, touching Vellum's Venom poisons                                                                              | Correct                        |
 | In the Expedition Forces, touching Vellum's Venom stuns                                                                                | Wrong                          |
 | In the Expedition Forces, Zakum's Hands will all vanish, and he will enter third stage                                                 | Correct                        |
 | In the Land of Chaos, each cycle lasts two days                                                                                        | Correct                        |
@@ -143,6 +144,7 @@ weight: 20
 | Orchid's most beloved is Gelimer                                                                                                       | Wrong                          |
 | Osteoporosis is mainly caused by the lack of vitamin B in the body                                                                     | Wrong                          |
 | Oxygen and hydrogen make up water                                                                                                      | Correct                        |
+| Oxygen is the lightest gas                                                                                                             | Wrong                          |
 | Panda is the national animal of China                                                                                                  | Correct                        |
 | Paris is the capital of France                                                                                                         | Correct                        |
 | Perion is the home of warriors                                                                                                         | Correct                        |
@@ -176,7 +178,6 @@ weight: 20
 | The capital of of the UK is Manchester                                                                                                 | Wrong                          |
 | The capital of Rome is Milan                                                                                                           | Wrong                          |
 | The capital of Russia is Saint Petersburg                                                                                              | Wrong                          |
-| The city of Los Angeles is also known as the Big Apple                                                                                 | Wrong                          |
 | The earliest red-and-white machine game Super Mario was produced by Nintendo                                                           | Correct                        |
 | The Earth is a sphere                                                                                                                  | Correct                        |
 | The English abbreviation of the position of Chief Executive Officer is CFO.                                                            | Wrong                          |
