@@ -230,6 +230,7 @@ weight: 20
 | Various rage skill upgrades require 'different' skill manuals.                                                                         | Correct                        |
 | Venezuela is home to the world's highest waterfall                                                                                     | Correct                        |
 | Venus is the hottest planet in our solar system                                                                                        | Correct                        |
+| Verne Mines is located in Edelstein                                                                                                    | Correct                        |
 | When approaching the enemy, automatic skills must be activated manually.                                                               | Wrong                          |
 | When totems are dropped, they will create basic attribute at random within the area                                                    | Wrong                          |
 | Winston Churchill was prime minister of Great Britain at the end of World War II                                                       | Correct                        |
