@@ -27,6 +27,7 @@ weight: 20
 | As the saying goes, cats have 10 lives                                                                                                 | Wrong                          |
 | Australia is located in the northern hemisphere                                                                                        | Wrong                          |
 | Auto skill upgrades cannot surpass the character's current level                                                                       | Correct                        |
+| Babylon was a city that actually used to exist                                                                                         | Correct                        |
 | Baseball is the national game of the USA                                                                                               | Correct                        |
 | Basketball is the national game of the USA                                                                                             | Wrong                          |
 | Battmond's body is a Crimson Balrog                                                                                                    | Correct                        |
@@ -123,6 +124,7 @@ weight: 20
 | Mango is the national fruit of India                                                                                                   | Correct                        |
 | Manji is Chun Ji's older brother                                                                                                       | Correct                        |
 | Maple Island is where the adventure begins                                                                                             | Correct                        |
+| Mars is known as the Red Planet                                                                                                        | Correct                        |
 | Max Planck discovered the theory of relativity                                                                                         | Wrong                          |
 | Michael Collins was the first man on the moon                                                                                          | Wrong                          |
 | Michael Jordan is known for basketball                                                                                                 | Correct                        |
