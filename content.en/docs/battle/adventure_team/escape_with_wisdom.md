@@ -200,6 +200,7 @@ weight: 20
 | The Nihal Desert is home to all kinds of fresh seafood                                                                                 | Wrong                          |
 | The number of 'Dusk Keys' you have in Dusk Demesne will be reset to 1 the following day, regardless of how many you had the day before | Wrong                          |
 | The outermost of the eight planets in the solar system is Saturn                                                                       | Wrong                          |
+| The player will immediately "lose" in the Duel Arena if they are not online|Wrong|
 | The river Seine in Paris is longer than the river Thames in London                                                                     | Correct                        |
 | The Sahara Desert is the largest in the world                                                                                          | Correct                        |
 | The slogan of the 2008 Olympic Games One World One Dream                                                                               | Correct                        |
@@ -242,3 +243,4 @@ weight: 20
 | You have 3 free times to challenge Monster Park                                                                                        | Wrong                          |
 | You have have 100 free times of quick combat                                                                                           | Wrong                          |
 | You will fail as long as one of the Attacking Monsters escapes                                                                         | Wrong                          |
+|Canada is the largest country in the world based on the area|Wrong|
