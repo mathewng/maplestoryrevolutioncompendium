@@ -36,6 +36,7 @@ weight: 20
 | Brisbane is Australia's largest city                                                                                                   | Wrong                          |
 | Buddha was a real person                                                                                                               | Correct                        |
 | Bueno Aires is the capital of Argentina                                                                                                | Correct                        |
+| Cairo is the capital of Mongolia                                                                                                       | Wrong                          |
 | Canada has the longest coastline in the world.                                                                                         | Correct                        |
 | Canada is the largest country in the world based on the area                                                                           | Wrong                          |
 | Caterpillars turn into butterflies.                                                                                                    | Correct                        |
@@ -110,7 +111,6 @@ weight: 20
 | Job Advancement can learn new skills                                                                                                   | Correct                        |
 | Jupiter is the closest planet to Earth                                                                                                 | Wrong                          |
 | Kerning City is the territory of the Thieves                                                                                           | Correct                        |
-| Kyrin is the Bowman Instructor                                                                                                         | Wrong                          |
 | Kyrin is the Pirate Instructor                                                                                                         | Correct                        |
 | Leafre is positioned the Minar Forest                                                                                                  | Correct                        |
 | Lionel Messi is known for football                                                                                                     | Correct                        |
@@ -190,6 +190,7 @@ weight: 20
 | The founder of KFC is a Colonel.                                                                                                       | Correct                        |
 | The fruit of lemon has just one seed                                                                                                   | Wrong                          |
 | The greater the Mu Lung Dojo's challenge layers, the better the daily award                                                            | Correct                        |
+| The Guild with the most points wins the Victoria Island Rivalry                                                                        | Correct                        |
 | The hardest part of the human body is the bones                                                                                        | Wrong                          |
 | The Horntail has two dragon heads in the Dusk Demesne                                                                                  | Wrong                          |
 | The Incumbent Dark Lord's name is Lady Syl                                                                                             | Wrong                          |
@@ -239,7 +240,9 @@ weight: 20
 | When totems are dropped, they will create basic attribute at random within the area                                                    | Wrong                          |
 | Winston Churchill was prime minister of Great Britain at the end of World War II                                                       | Correct                        |
 | World BOSS Battle start from 12:00-20:00 every day                                                                                     | Correct                        |
+| WWW stands for World Wide Web                                                                                                          | Correct                        |
 | You can sneeze in your sleep                                                                                                           | Wrong                          |
+| You can't resign after joining a Guild                                                                                                 | Wrong                          |
 | You have 2 free times to challenge the Attacking Monsters                                                                              | Correct                        |
 | You have 3 free times to challenge Monster Park                                                                                        | Wrong                          |
 | You have have 100 free times of quick combat                                                                                           | Wrong                          |
