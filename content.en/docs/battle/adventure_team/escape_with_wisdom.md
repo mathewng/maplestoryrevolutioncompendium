@@ -62,6 +62,7 @@ weight: 20
 | During the Great Arena battle, HP vials "may" be utilised                                                                              | Wrong                          |
 | Dusk Demesne 'allows' One-On-One Challenge                                                                                             | Correct                        |
 | Each NBA team has 28 players                                                                                                           | Wrong                          |
+| Each NBA team has 30 players                                                                                                           | Wrong                          |
 | Each quick combat can earn you up to 200 minutes of idle earning                                                                       | Correct                        |
 | Ears are essential for imparting balance to the human body                                                                             | Correct                        |
 | Elephant is the second tallest animal in the world                                                                                     | Correct                        |
@@ -120,7 +121,6 @@ weight: 20
 | Madonna's real name is Madonna                                                                                                         | Correct                        |
 | Magellan was the first person to circumnavigate the Earth.                                                                             | Correct                        |
 | Mahatma Gandhi was king of India.                                                                                                      | Wrong                          |
-| Mai is not an adventurer guide                                                                                                         | Wrong                          |
 | Mai is the adventurer guide                                                                                                            | Correct                        |
 | Mango is the national fruit of India                                                                                                   | Correct                        |
 | Manji is Chun Ji's older brother                                                                                                       | Correct                        |
@@ -168,8 +168,7 @@ weight: 20
 | Strawberries is the only fruit with the seeds on the outside                                                                           | Correct                        |
 | Telescope is the instrument used to see stars                                                                                          | Correct                        |
 | The 'Progress Rewards' in each cycle can be claimed multiple times in the Land of Chaos.                                               | Wrong                          |
-| The adventure journey's challenge has no time constraint.                                                                              | Wrong                          |
-| The adventure journey's challenge level has no time constraint                                                                         | Wrong                          |
+| The adventure journey's challenge level has a time constraint                                                                          | Correct                        |
 | The African Elephant is the largest land animal to roam the planet                                                                     | Correct                        |
 | The Atlantic Ocean is the biggest ocean on Earth.                                                                                      | Wrong                          |
 | The black box in a plane is black                                                                                                      | Wrong                          |
