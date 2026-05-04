@@ -28,6 +28,7 @@ These codes are released through its official [Facebook](https://www.facebook.co
 # List of Activation Codes
 | Publish date      | Activation code  |
 | ----------------- | ---------------- |
+| 4 May 2026        | MAYCOCOO26       |
 | 27 Apr 2026       | APRGREAT26       |
 | 20 Apr 2026       | APRNEWW26        |
 | 13 Apr 2026       | APRPERRY26       |
