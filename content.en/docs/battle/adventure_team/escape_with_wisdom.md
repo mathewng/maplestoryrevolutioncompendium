@@ -7,6 +7,7 @@ weight: 20
 
 | Question                                                                                                                               | Answer                         |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+
 | A baseball team has 15 players                                                                                                         | Wrong                          |
 | A cube has 12 straight edges                                                                                                           | Correct                        |
 | Abraham Lincoln was the first President of the United States                                                                           | Wrong                          |
@@ -47,8 +48,10 @@ weight: 20
 | China has the longest coastline in the world.                                                                                          | Wrong                          |
 | China is the largest country in the world based on the area                                                                            | Wrong                          |
 | Chun Ji is Manji's older brother                                                                                                       | Wrong                          |
+| Chun Ji is Manji's younger brother                                                                                                     | Correct                        |
 | Cinderella's carriage turns into a potato                                                                                              | Wrong                          |
 | Claudine is the leader of the rebel group                                                                                              | Correct                        |
+| Clearing Dimension Trail (Plot) can obtain the plot title                                                                              | Correct                        |
 | Collect all pieces of furniture from the same series to obtain extra rewards such as walls and backdrop graphics                       | Correct                        |
 | Consume "Abyss Pass" to challenge the Dark Abyss                                                                                       | Correct                        |
 | Consume tinder for wing nirvana                                                                                                        | Correct                        |
