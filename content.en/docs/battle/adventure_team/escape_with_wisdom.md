@@ -7,7 +7,6 @@ weight: 20
 
 | Question                                                                                                                               | Answer                         |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-
 | A baseball team has 15 players                                                                                                         | Wrong                          |
 | A cube has 12 straight edges                                                                                                           | Correct                        |
 | Abraham Lincoln was the first President of the United States                                                                           | Wrong                          |
