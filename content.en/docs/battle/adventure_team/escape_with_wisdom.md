@@ -227,6 +227,7 @@ weight: 20
 | There are 60 states in the United states                                                                                               | Wrong                          |
 | There are 7 colours in a rainbow                                                                                                       | Correct                        |
 | There are only 30 days in May                                                                                                          | Wrong                          |
+| There is water on the moon                                                                                                             | Correct                        |
 | Tiger Woods is known for golf                                                                                                          | Correct                        |
 | Timer is looking for his lost "parts"                                                                                                  | Correct                        |
 | Toronto is the capital of Canada                                                                                                       | Wrong                          |
