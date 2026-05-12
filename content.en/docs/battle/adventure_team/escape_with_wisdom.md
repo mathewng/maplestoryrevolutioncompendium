@@ -93,6 +93,7 @@ weight: 20
 | Grendel the Really Old is into wine                                                                                                    | Correct                        |
 | Hamburg is the capital of Germany                                                                                                      | Wrong                          |
 | Hawaii is the world's largest volcano located                                                                                          | Correct                        |
+| Hawaiian pizza comes from Canada                                                                                                       | Correct                        |
 | Helena is the Bowman Instructor                                                                                                        | Correct                        |
 | Henesys is the home of bowman                                                                                                          | Correct                        |
 | Human skin regenerates every week                                                                                                      | Wrong                          |
