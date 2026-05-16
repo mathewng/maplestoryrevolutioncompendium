@@ -26,6 +26,7 @@ weight: 20
 | Anemometer is used for measuring wind speed.                                                                                           | Correct                        |
 | As the saying goes, cats have 10 lives                                                                                                 | Wrong                          |
 | Australia is located in the northern hemisphere                                                                                        | Wrong                          |
+| Australia is the smallest continent                                                                                                    | Correct                        |
 | Auto skill upgrades cannot surpass the character's current level                                                                       | Correct                        |
 | Babylon was a city that actually used to exist                                                                                         | Correct                        |
 | Baseball is the national game of the USA                                                                                               | Correct                        |
