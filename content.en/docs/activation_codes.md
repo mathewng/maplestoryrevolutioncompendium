@@ -28,6 +28,8 @@ These codes are released through its official [Facebook](https://www.facebook.co
 # List of Activation Codes
 | Publish date      | Activation code  |
 | ----------------- | ---------------- |
+| 1 June 2026       | JUNCOCOO26       |
+| 25 May 2026       | MAYGREAT26       |
 | 18 May 2026       | MAYNEWW26        |
 | 11 May 2026       | MAYPERRY26       |
 | 4 May 2026        | MAYCOCOO26       |
