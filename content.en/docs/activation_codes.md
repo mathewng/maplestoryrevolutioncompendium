@@ -28,6 +28,7 @@ These codes are released through its official [Facebook](https://www.facebook.co
 # List of Activation Codes
 | Publish date      | Activation code  |
 | ----------------- | ---------------- |
+| 30 June 2026      | JUNEGREAT26      |
 | 22 June 2026      | JUNGREAT26       |
 | 19 June 2026      | dragonboat2026   |
 | 15 June 2026      | JUNNEWW26        |
